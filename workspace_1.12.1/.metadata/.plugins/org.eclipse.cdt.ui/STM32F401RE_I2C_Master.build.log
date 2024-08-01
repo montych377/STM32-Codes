@@ -1,0 +1,10 @@
+01:07:48 **** Build of configuration Release for project STM32F401RE_I2C_Master ****
+make -j12 all 
+arm-none-eabi-size   STM32F401RE_I2C_Master.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4320	     20	   1652	   5992	   1768	STM32F401RE_I2C_Master.elf
+Finished building: default.size.stdout
+ 
+
+01:07:48 Build Finished. 0 errors, 0 warnings. (took 275ms)
+

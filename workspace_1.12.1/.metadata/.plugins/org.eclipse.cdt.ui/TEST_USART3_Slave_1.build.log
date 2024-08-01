@@ -1,0 +1,10 @@
+04:04:49 **** Build of configuration Debug for project TEST_USART3_Slave_1 ****
+make -j12 all 
+arm-none-eabi-size   TEST_USART3_Slave_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9660	     20	   1708	  11388	   2c7c	TEST_USART3_Slave_1.elf
+Finished building: default.size.stdout
+ 
+
+04:04:49 Build Finished. 0 errors, 0 warnings. (took 214ms)
+

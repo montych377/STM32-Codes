@@ -1,0 +1,10 @@
+01:07:21 **** Build of configuration Debug for project F401Re_New_i2c_slave_1 ****
+make -j12 all 
+arm-none-eabi-size   F401Re_New_i2c_slave_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14880	     20	   1660	  16560	   40b0	F401Re_New_i2c_slave_1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:21 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

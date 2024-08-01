@@ -1,0 +1,10 @@
+01:07:54 **** Build of configuration Debug for project TEST_6_UART_1 ****
+make -j12 all 
+arm-none-eabi-size   TEST_6_UART_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9052	     20	   1636	  10708	   29d4	TEST_6_UART_1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:55 Build Finished. 0 errors, 0 warnings. (took 226ms)
+

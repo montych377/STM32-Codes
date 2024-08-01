@@ -1,0 +1,10 @@
+01:08:05 **** Build of configuration Debug for project USART_2_Receive_DMA ****
+make -j12 all 
+arm-none-eabi-size   USART_2_Receive_DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14920	     20	   1748	  16688	   4130	USART_2_Receive_DMA.elf
+Finished building: default.size.stdout
+ 
+
+01:08:05 Build Finished. 0 errors, 0 warnings. (took 221ms)
+

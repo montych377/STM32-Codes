@@ -1,0 +1,3 @@
+2024-05-31 21:12:48,298 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-05-31 21:12:48,441 [INFO] ApiDb:448 - Save user favorites file C:\Users\Sofcon_Lab2/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-05-31 21:12:48,441 [INFO] ApiDb:452 - User favorites MCUs=[]

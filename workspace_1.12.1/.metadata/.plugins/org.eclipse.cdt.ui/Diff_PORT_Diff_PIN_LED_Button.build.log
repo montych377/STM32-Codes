@@ -1,0 +1,10 @@
+01:07:18 **** Build of configuration Debug for project Diff_PORT_Diff_PIN_LED_Button ****
+make -j12 all 
+arm-none-eabi-size   Diff_PORT_Diff_PIN_LED_Button.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6976	     68	   1572	   8616	   21a8	Diff_PORT_Diff_PIN_LED_Button.elf
+Finished building: default.size.stdout
+ 
+
+01:07:18 Build Finished. 0 errors, 0 warnings. (took 288ms)
+

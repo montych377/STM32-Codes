@@ -1,0 +1,10 @@
+01:07:30 **** Build of configuration Debug for project F446RE_NEMA_17_Stepper_Motor_A4988_Driver ****
+make -j12 all 
+arm-none-eabi-size   F446RE_NEMA_17_Stepper_Motor_A4988_Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11468	     20	   1716	  13204	   3394	F446RE_NEMA_17_Stepper_Motor_A4988_Driver.elf
+Finished building: default.size.stdout
+ 
+
+01:07:30 Build Finished. 0 errors, 0 warnings. (took 279ms)
+

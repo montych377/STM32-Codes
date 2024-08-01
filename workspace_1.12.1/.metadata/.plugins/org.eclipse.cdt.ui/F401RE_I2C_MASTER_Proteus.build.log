@@ -1,0 +1,22 @@
+01:07:19 **** Build of configuration Debug for project F401RE_I2C_MASTER_Proteus ****
+make -j12 all 
+arm-none-eabi-gcc -o "F401RE_I2C_MASTER_Proteus.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\F401RE_I2C_MASTER_Proteus\STM32F401RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F401RE_I2C_MASTER_Proteus.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: F401RE_I2C_MASTER_Proteus.elf
+ 
+arm-none-eabi-size   F401RE_I2C_MASTER_Proteus.elf 
+arm-none-eabi-objdump -h -S  F401RE_I2C_MASTER_Proteus.elf  > "F401RE_I2C_MASTER_Proteus.list"
+arm-none-eabi-objcopy  -O ihex  F401RE_I2C_MASTER_Proteus.elf  "F401RE_I2C_MASTER_Proteus.hex"
+   text	   data	    bss	    dec	    hex	filename
+  10012	     20	   1724	  11756	   2dec	F401RE_I2C_MASTER_Proteus.elf
+arm-none-eabi-objcopy  -O binary  F401RE_I2C_MASTER_Proteus.elf  "F401RE_I2C_MASTER_Proteus.bin"
+Finished building: default.size.stdout
+ 
+Finished building: F401RE_I2C_MASTER_Proteus.bin
+Finished building: F401RE_I2C_MASTER_Proteus.hex
+ 
+ 
+Finished building: F401RE_I2C_MASTER_Proteus.list
+ 
+
+01:07:20 Build Finished. 0 errors, 0 warnings. (took 663ms)
+

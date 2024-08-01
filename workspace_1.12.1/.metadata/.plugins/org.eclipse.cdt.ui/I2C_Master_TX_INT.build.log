@@ -1,0 +1,10 @@
+21:43:04 **** Build of configuration Debug for project I2C_Master_TX_INT ****
+make -j12 all 
+arm-none-eabi-size   I2C_Master_TX_INT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16080	     48	   1728	  17856	   45c0	I2C_Master_TX_INT.elf
+Finished building: default.size.stdout
+ 
+
+21:43:04 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

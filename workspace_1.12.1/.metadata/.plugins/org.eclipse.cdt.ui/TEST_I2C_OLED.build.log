@@ -1,0 +1,10 @@
+01:07:57 **** Build of configuration Debug for project TEST_I2C_OLED ****
+make -j12 all 
+arm-none-eabi-size   TEST_I2C_OLED.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14984	     28	   2756	  17768	   4568	TEST_I2C_OLED.elf
+Finished building: default.size.stdout
+ 
+
+01:07:57 Build Finished. 0 errors, 0 warnings. (took 220ms)
+

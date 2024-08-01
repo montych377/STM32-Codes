@@ -1,0 +1,10 @@
+01:08:04 **** Build of configuration Debug for project Timer_1_Polling ****
+make -j12 all 
+arm-none-eabi-size   Timer_1_Polling.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10224	     20	   1644	  11888	   2e70	Timer_1_Polling.elf
+Finished building: default.size.stdout
+ 
+
+01:08:04 Build Finished. 0 errors, 0 warnings. (took 230ms)
+

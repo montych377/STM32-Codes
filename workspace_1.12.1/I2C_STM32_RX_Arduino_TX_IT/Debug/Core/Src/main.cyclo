@@ -1,0 +1,8 @@
+main.c:71:5:main	1
+main.c:116:6:SystemClock_Config	3
+main.c:164:13:MX_I2C1_Init	2
+main.c:198:13:MX_USART2_UART_Init	2
+main.c:231:13:MX_GPIO_Init	1
+main.c:266:6:HAL_I2C_AddrCallback	2
+main.c:282:6:HAL_I2C_SlaveRxCpltCallback	2
+main.c:306:6:Error_Handler	1

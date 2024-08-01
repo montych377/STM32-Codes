@@ -1,0 +1,22 @@
+03:15:41 **** Incremental Build of configuration Debug for project TUT_TFT_Display_Proteus ****
+make -j12 all 
+arm-none-eabi-gcc -o "TUT_TFT_Display_Proteus.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TUT_TFT_Display_Proteus\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="TUT_TFT_Display_Proteus.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: TUT_TFT_Display_Proteus.elf
+ 
+arm-none-eabi-size   TUT_TFT_Display_Proteus.elf 
+arm-none-eabi-objdump -h -S  TUT_TFT_Display_Proteus.elf  > "TUT_TFT_Display_Proteus.list"
+arm-none-eabi-objcopy  -O ihex  TUT_TFT_Display_Proteus.elf  "TUT_TFT_Display_Proteus.hex"
+   text	   data	    bss	    dec	    hex	filename
+  18952	     44	   1660	  20656	   50b0	TUT_TFT_Display_Proteus.elf
+arm-none-eabi-objcopy  -O binary  TUT_TFT_Display_Proteus.elf  "TUT_TFT_Display_Proteus.bin"
+Finished building: default.size.stdout
+ 
+Finished building: TUT_TFT_Display_Proteus.list
+ 
+Finished building: TUT_TFT_Display_Proteus.hex
+Finished building: TUT_TFT_Display_Proteus.bin
+ 
+ 
+
+03:15:42 Build Finished. 0 errors, 0 warnings. (took 472ms)
+

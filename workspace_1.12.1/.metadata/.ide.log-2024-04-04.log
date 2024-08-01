@@ -1,0 +1,249 @@
+2024-04-04 00:34:10,492 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 00:34:13,535 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 00:34:15,559 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 00:34:56,218 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 454295936 Bytes (1019215872)
+2024-04-04 00:34:57,729 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 530317696 Bytes (1019215872)
+2024-04-04 00:34:57,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-04 00:34:57,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-04 00:34:57,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-04 00:34:57,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 00:34:57,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 00:34:57,902 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-04 00:34:57,903 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-04 00:34:58,073 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp_save
+2024-04-04 00:34:58,137 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp
+2024-04-04 00:34:58,146 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp_save
+2024-04-04 00:34:58,206 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp
+2024-04-04 00:34:58,243 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c_save
+2024-04-04 00:34:58,301 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c
+2024-04-04 00:34:58,304 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h_save
+2024-04-04 00:34:58,349 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h
+2024-04-04 00:34:58,360 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-04 00:34:58,427 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c
+2024-04-04 00:34:58,430 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp_save
+2024-04-04 00:34:58,476 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp
+2024-04-04 00:34:58,489 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-04 00:34:58,560 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-04 00:34:58,576 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-04 00:34:58,588 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h_save
+2024-04-04 00:34:58,647 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h
+2024-04-04 00:34:58,655 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c_save
+2024-04-04 00:34:58,735 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c
+2024-04-04 00:34:59,304 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 134mS.
+2024-04-04 00:34:59,306 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-04 00:34:59,486 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-04 00:35:00,472 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1166mS.
+2024-04-04 00:35:00,472 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 00:35:00,474 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 01:11:02,649 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 411819416 Bytes (1019215872)
+2024-04-04 01:11:02,876 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-04 01:11:02,876 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-04 01:11:02,876 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-04 01:11:02,876 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:11:02,876 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:11:02,877 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-04 01:11:02,878 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-04 01:11:03,113 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp_save
+2024-04-04 01:11:03,171 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp
+2024-04-04 01:11:03,188 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp_save
+2024-04-04 01:11:03,254 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp
+2024-04-04 01:11:03,321 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c_save
+2024-04-04 01:11:03,431 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c
+2024-04-04 01:11:03,439 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h_save
+2024-04-04 01:11:03,492 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h
+2024-04-04 01:11:03,509 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-04 01:11:03,588 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c
+2024-04-04 01:11:03,595 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp_save
+2024-04-04 01:11:03,642 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp
+2024-04-04 01:11:03,657 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-04 01:11:03,726 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-04 01:11:03,742 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-04 01:11:03,759 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h_save
+2024-04-04 01:11:03,826 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h
+2024-04-04 01:11:03,840 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c_save
+2024-04-04 01:11:03,923 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c
+2024-04-04 01:11:04,486 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 108mS.
+2024-04-04 01:11:04,488 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-04 01:11:04,677 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-04 01:11:06,009 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1521mS.
+2024-04-04 01:11:06,010 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-04-04 01:11:06,011 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 01:18:31,905 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 857994280 Bytes (1041235968)
+2024-04-04 01:18:32,044 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-04 01:18:32,044 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-04 01:18:32,044 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-04 01:18:32,044 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:18:32,044 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:18:32,044 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-04 01:18:32,045 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-04 01:18:32,287 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp_save
+2024-04-04 01:18:32,353 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp
+2024-04-04 01:18:32,364 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp_save
+2024-04-04 01:18:32,462 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp
+2024-04-04 01:18:32,505 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c_save
+2024-04-04 01:18:32,573 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c
+2024-04-04 01:18:32,576 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h_save
+2024-04-04 01:18:32,624 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h
+2024-04-04 01:18:32,635 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-04 01:18:32,697 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c
+2024-04-04 01:18:32,700 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp_save
+2024-04-04 01:18:32,747 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp
+2024-04-04 01:18:32,756 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-04 01:18:32,830 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-04 01:18:32,845 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-04 01:18:32,857 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h_save
+2024-04-04 01:18:32,914 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h
+2024-04-04 01:18:32,922 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c_save
+2024-04-04 01:18:32,988 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c
+2024-04-04 01:18:33,365 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 84mS.
+2024-04-04 01:18:33,367 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-04 01:18:33,707 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-04 01:18:34,802 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1435mS.
+2024-04-04 01:18:34,803 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-04-04 01:18:34,805 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 01:18:54,278 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 946834672 Bytes (1041235968)
+2024-04-04 01:18:54,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-04 01:18:54,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-04 01:18:54,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-04 01:18:54,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:18:54,487 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:18:54,487 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-04 01:18:54,488 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-04 01:18:54,663 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp_save
+2024-04-04 01:18:54,738 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp
+2024-04-04 01:18:54,748 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp_save
+2024-04-04 01:18:54,810 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp
+2024-04-04 01:18:54,846 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c_save
+2024-04-04 01:18:54,904 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c
+2024-04-04 01:18:54,907 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h_save
+2024-04-04 01:18:54,952 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h
+2024-04-04 01:18:54,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-04 01:18:55,026 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c
+2024-04-04 01:18:55,028 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp_save
+2024-04-04 01:18:55,079 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp
+2024-04-04 01:18:55,089 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-04 01:18:55,159 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-04 01:18:55,175 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-04 01:18:55,186 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h_save
+2024-04-04 01:18:55,242 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h
+2024-04-04 01:18:55,251 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c_save
+2024-04-04 01:18:55,340 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c
+2024-04-04 01:18:55,866 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 89mS.
+2024-04-04 01:18:55,869 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-04 01:18:56,102 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-04 01:18:57,084 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1215mS.
+2024-04-04 01:18:57,085 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 01:18:57,087 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 01:21:12,906 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-04 01:21:17,235 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x258,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-04 01:21:18,718 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-04 01:21:26,146 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 560143488 Bytes (1041235968)
+2024-04-04 01:21:27,627 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 604705920 Bytes (1041235968)
+2024-04-04 01:21:27,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-04 01:21:27,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-04 01:21:27,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-04 01:21:27,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:21:27,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 01:21:27,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-04 01:21:27,798 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-04 01:21:27,974 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp_save
+2024-04-04 01:21:28,041 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp
+2024-04-04 01:21:28,052 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp_save
+2024-04-04 01:21:28,111 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp
+2024-04-04 01:21:28,150 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c_save
+2024-04-04 01:21:28,245 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c
+2024-04-04 01:21:28,249 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h_save
+2024-04-04 01:21:28,306 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h
+2024-04-04 01:21:28,319 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-04 01:21:28,399 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c
+2024-04-04 01:21:28,402 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp_save
+2024-04-04 01:21:28,448 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp
+2024-04-04 01:21:28,459 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-04 01:21:28,529 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-04 01:21:28,544 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-04 01:21:28,555 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h_save
+2024-04-04 01:21:28,620 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h
+2024-04-04 01:21:28,630 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c_save
+2024-04-04 01:21:28,713 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c
+2024-04-04 01:21:29,260 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 98mS.
+2024-04-04 01:21:29,262 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-04 01:21:29,436 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-04 01:21:30,482 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1219mS.
+2024-04-04 01:21:30,482 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 01:21:30,485 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-04-04 01:42:52,285 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 01:42:54,306 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 01:55:57,331 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 01:55:59,348 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 01:56:01,368 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 01:56:03,428 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-04 01:56:05,431 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2024-04-04 01:56:07,448 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2024-04-04 02:02:06,889 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-04-04 02:02:08,250 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 409411552 Bytes (1041235968)
+2024-04-04 02:02:11,540 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 513184160 Bytes (1041235968)
+2024-04-04 02:02:11,684 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-04 02:02:11,684 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-04 02:02:11,684 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-04 02:02:11,684 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 02:02:11,684 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 02:02:11,684 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-04 02:02:11,685 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-04 02:02:11,808 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp_save
+2024-04-04 02:02:11,874 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp
+2024-04-04 02:02:11,884 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp_save
+2024-04-04 02:02:11,951 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp
+2024-04-04 02:02:12,060 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c_save
+2024-04-04 02:02:12,188 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c
+2024-04-04 02:02:12,191 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h_save
+2024-04-04 02:02:12,241 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h
+2024-04-04 02:02:12,253 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-04 02:02:12,330 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c
+2024-04-04 02:02:12,333 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp_save
+2024-04-04 02:02:12,380 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp
+2024-04-04 02:02:12,390 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-04 02:02:12,460 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-04 02:02:12,475 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-04 02:02:12,486 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h_save
+2024-04-04 02:02:12,558 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h
+2024-04-04 02:02:12,567 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c_save
+2024-04-04 02:02:12,636 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c
+2024-04-04 02:02:13,120 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 90mS.
+2024-04-04 02:02:13,122 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-04 02:02:13,297 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-04 02:02:14,398 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1276mS.
+2024-04-04 02:02:14,399 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-04-04 02:02:14,401 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 02:22:40,407 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 498413328 Bytes (1041235968)
+2024-04-04 02:22:40,551 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-04 02:22:40,551 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-04 02:22:40,551 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-04 02:22:40,551 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 02:22:40,551 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-04 02:22:40,551 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-04 02:22:40,552 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-04 02:22:40,677 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp_save
+2024-04-04 02:22:40,752 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\license.tmp
+2024-04-04 02:22:40,762 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp_save
+2024-04-04 02:22:40,827 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\gpio.tmp
+2024-04-04 02:22:40,865 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c_save
+2024-04-04 02:22:41,055 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_it.c
+2024-04-04 02:22:41,063 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h_save
+2024-04-04 02:22:41,108 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_it.h
+2024-04-04 02:22:41,119 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-04 02:22:41,190 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\stm32f4xx_hal_msp.c
+2024-04-04 02:22:41,192 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp_save
+2024-04-04 02:22:41,239 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\MXTmpFiles\system.tmp
+2024-04-04 02:22:41,248 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-04 02:22:41,318 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-04 02:22:41,333 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-04 02:22:41,344 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h_save
+2024-04-04 02:22:41,413 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Inc\main.h
+2024-04-04 02:22:41,422 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c_save
+2024-04-04 02:22:41,491 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_UART_Slave_USART3\Core\Src\main.c
+2024-04-04 02:22:41,968 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 88mS.
+2024-04-04 02:22:41,970 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-04 02:22:42,146 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-04 02:22:43,217 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1246mS.
+2024-04-04 02:22:43,217 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-04-04 02:22:43,219 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

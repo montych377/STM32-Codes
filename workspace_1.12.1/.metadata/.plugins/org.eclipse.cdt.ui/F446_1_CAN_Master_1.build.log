@@ -1,0 +1,10 @@
+01:07:38 **** Build of configuration Debug for project F446_1_CAN_Master_1 ****
+make -j12 all 
+arm-none-eabi-size   F446_1_CAN_Master_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13180	     20	   1756	  14956	   3a6c	F446_1_CAN_Master_1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:38 Build Finished. 0 errors, 0 warnings. (took 280ms)
+

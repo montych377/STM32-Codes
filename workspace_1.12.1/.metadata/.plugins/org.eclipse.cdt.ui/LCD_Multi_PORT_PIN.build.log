@@ -1,0 +1,10 @@
+01:07:42 **** Build of configuration Debug for project LCD_Multi_PORT_PIN ****
+make -j12 all 
+arm-none-eabi-size   LCD_Multi_PORT_PIN.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8940	     20	   1636	  10596	   2964	LCD_Multi_PORT_PIN.elf
+Finished building: default.size.stdout
+ 
+
+01:07:42 Build Finished. 0 errors, 0 warnings. (took 215ms)
+

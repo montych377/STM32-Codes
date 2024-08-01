@@ -1,0 +1,10 @@
+01:08:04 **** Build of configuration Debug for project USART_1_RS485_Transmit ****
+make -j12 all 
+arm-none-eabi-size   USART_1_RS485_Transmit.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11176	     20	   1636	  12832	   3220	USART_1_RS485_Transmit.elf
+Finished building: default.size.stdout
+ 
+
+01:08:04 Build Finished. 0 errors, 0 warnings. (took 226ms)
+

@@ -1,0 +1,10 @@
+01:07:49 **** Build of configuration Debug for project STM32F401RE_TEST_LED ****
+make -j12 all 
+arm-none-eabi-size   STM32F401RE_TEST_LED.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9100	     20	   1724	  10844	   2a5c	STM32F401RE_TEST_LED.elf
+Finished building: default.size.stdout
+ 
+
+01:07:49 Build Finished. 0 errors, 0 warnings. (took 280ms)
+

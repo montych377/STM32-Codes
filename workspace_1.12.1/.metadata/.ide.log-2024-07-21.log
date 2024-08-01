@@ -1,0 +1,38 @@
+2024-07-21 21:39:42,707 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 880332040 Bytes (1073741824)
+2024-07-21 21:39:43,692 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 802287880 Bytes (1073741824)
+2024-07-21 21:39:43,811 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 827453704 Bytes (1073741824)
+2024-07-21 21:39:44,053 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-07-21 21:39:44,053 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-07-21 21:39:44,053 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-21 21:39:44,053 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-21 21:39:44,053 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-21 21:39:44,053 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-07-21 21:39:44,054 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-21 21:39:44,055 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-07-21 21:39:44,274 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\MXTmpFiles\license.tmp_save
+2024-07-21 21:39:44,351 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\MXTmpFiles\license.tmp
+2024-07-21 21:39:44,375 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\MXTmpFiles\gpio.tmp_save
+2024-07-21 21:39:44,494 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\MXTmpFiles\gpio.tmp
+2024-07-21 21:39:44,626 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Src\stm32f4xx_it.c_save
+2024-07-21 21:39:44,762 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Src\stm32f4xx_it.c
+2024-07-21 21:39:44,773 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Inc\stm32f4xx_it.h_save
+2024-07-21 21:39:44,828 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Inc\stm32f4xx_it.h
+2024-07-21 21:39:44,848 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-21 21:39:44,970 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Src\stm32f4xx_hal_msp.c
+2024-07-21 21:39:44,974 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\MXTmpFiles\system.tmp_save
+2024-07-21 21:39:45,017 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\MXTmpFiles\system.tmp
+2024-07-21 21:39:45,036 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-21 21:39:45,110 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-21 21:39:45,129 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-07-21 21:39:45,131 [WARN] IPConfigManager:3431 - IP not found : TIM
+2024-07-21 21:39:45,132 [WARN] CodeGenerator:3754 - IP not found : null
+2024-07-21 21:39:45,151 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Inc\main.h_save
+2024-07-21 21:39:45,223 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Inc\main.h
+2024-07-21 21:39:45,239 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Src\main.c_save
+2024-07-21 21:39:45,341 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Timer_1_Output_Compare_Toggle\Core\Src\main.c
+2024-07-21 21:39:45,952 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 139mS.
+2024-07-21 21:39:45,955 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-07-21 21:39:46,296 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-07-21 21:39:47,961 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2006mS.
+2024-07-21 21:39:47,963 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-07-21 21:39:47,966 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

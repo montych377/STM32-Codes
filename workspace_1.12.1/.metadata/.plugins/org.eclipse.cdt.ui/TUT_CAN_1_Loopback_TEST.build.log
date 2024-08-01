@@ -1,0 +1,10 @@
+01:08:02 **** Build of configuration Debug for project TUT_CAN_1_Loopback_TEST ****
+make -j12 all 
+arm-none-eabi-size   TUT_CAN_1_Loopback_TEST.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7120	     20	   1612	   8752	   2230	TUT_CAN_1_Loopback_TEST.elf
+Finished building: default.size.stdout
+ 
+
+01:08:02 Build Finished. 0 errors, 0 warnings. (took 279ms)
+

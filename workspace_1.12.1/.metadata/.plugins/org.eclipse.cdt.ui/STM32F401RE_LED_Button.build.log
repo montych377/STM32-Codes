@@ -1,0 +1,10 @@
+01:07:48 **** Build of configuration Debug for project STM32F401RE_LED_Button ****
+make -j12 all 
+arm-none-eabi-size   STM32F401RE_LED_Button.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10768	    120	   1656	  12544	   3100	STM32F401RE_LED_Button.elf
+Finished building: default.size.stdout
+ 
+
+01:07:49 Build Finished. 0 errors, 0 warnings. (took 273ms)
+

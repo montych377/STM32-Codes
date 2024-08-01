@@ -1,0 +1,10 @@
+01:07:50 **** Build of configuration Debug for project STM32F446RE_CAN_1_LoopBACK ****
+make -j12 all 
+arm-none-eabi-size   STM32F446RE_CAN_1_LoopBACK.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9820	     20	   1724	  11564	   2d2c	STM32F446RE_CAN_1_LoopBACK.elf
+Finished building: default.size.stdout
+ 
+
+01:07:50 Build Finished. 0 errors, 0 warnings. (took 278ms)
+

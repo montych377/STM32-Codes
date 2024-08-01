@@ -1,0 +1,10 @@
+01:08:06 **** Build of configuration Debug for project USART_2_Transmit_INT ****
+make -j12 all 
+arm-none-eabi-size   USART_2_Transmit_INT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11404	     64	   1640	  13108	   3334	USART_2_Transmit_INT.elf
+Finished building: default.size.stdout
+ 
+
+01:08:06 Build Finished. 0 errors, 0 warnings. (took 221ms)
+

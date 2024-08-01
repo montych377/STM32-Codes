@@ -1,0 +1,10 @@
+01:08:02 **** Build of configuration Debug for project TUT_CAN_1_Master ****
+make -j12 all 
+arm-none-eabi-size   TUT_CAN_1_Master.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11772	     20	   1724	  13516	   34cc	TUT_CAN_1_Master.elf
+Finished building: default.size.stdout
+ 
+
+01:08:03 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

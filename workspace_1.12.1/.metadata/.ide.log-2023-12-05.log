@@ -1,0 +1,43 @@
+2023-12-06 00:00:58,776 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 767616728 Bytes (997195776)
+2023-12-06 00:00:58,819 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-12-06 00:00:58,820 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-12-06 00:00:58,820 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2023-12-06 00:01:00,427 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 814800760 Bytes (997195776)
+2023-12-06 00:01:00,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-06 00:01:00,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-12-06 00:01:00,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-06 00:01:00,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-06 00:01:00,590 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-06 00:01:00,591 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-06 00:01:00,591 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-12-06 00:01:00,779 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\MXTmpFiles\license.tmp_save
+2023-12-06 00:01:00,844 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\MXTmpFiles\license.tmp
+2023-12-06 00:01:00,865 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\MXTmpFiles\gpio.tmp_save
+2023-12-06 00:01:00,940 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\MXTmpFiles\gpio.tmp
+2023-12-06 00:01:01,000 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Src\stm32f4xx_it.c_save
+2023-12-06 00:01:01,061 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Src\stm32f4xx_it.c
+2023-12-06 00:01:01,069 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Inc\stm32f4xx_it.h_save
+2023-12-06 00:01:01,113 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Inc\stm32f4xx_it.h
+2023-12-06 00:01:01,125 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-06 00:01:01,189 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Src\stm32f4xx_hal_msp.c
+2023-12-06 00:01:01,192 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\MXTmpFiles\system.tmp_save
+2023-12-06 00:01:01,235 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\MXTmpFiles\system.tmp
+2023-12-06 00:01:01,245 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-06 00:01:01,321 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-06 00:01:01,336 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2023-12-06 00:01:01,347 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Inc\main.h_save
+2023-12-06 00:01:01,423 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Inc\main.h
+2023-12-06 00:01:01,433 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Src\main.c_save
+2023-12-06 00:01:01,520 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC Read 1 channel\Core\Src\main.c
+2023-12-06 00:01:01,909 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 92mS.
+2023-12-06 00:01:01,911 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-12-06 00:01:02,327 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2023-12-06 00:01:02,329 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-12-06 00:01:02,331 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-12-06 00:01:02,332 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-12-06 00:01:02,336 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-12-06 00:01:02,341 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-12-06 00:01:02,343 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2023-12-06 00:01:03,253 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1342mS.
+2023-12-06 00:01:03,253 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-12-06 00:01:03,255 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

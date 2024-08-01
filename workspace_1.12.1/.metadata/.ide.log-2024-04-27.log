@@ -1,0 +1,36 @@
+2024-04-28 00:23:21,882 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 725490088 Bytes (776994816)
+2024-04-28 00:23:22,520 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-28 00:23:22,520 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-04-28 00:23:22,521 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-28 00:23:22,521 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-28 00:23:22,521 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-04-28 00:23:22,521 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-28 00:23:22,523 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-04-28 00:23:22,967 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\MXTmpFiles\license.tmp_save
+2024-04-28 00:23:23,320 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\MXTmpFiles\license.tmp
+2024-04-28 00:23:23,382 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\MXTmpFiles\gpio.tmp_save
+2024-04-28 00:23:23,497 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\MXTmpFiles\gpio.tmp
+2024-04-28 00:23:23,662 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Src\stm32f4xx_it.c_save
+2024-04-28 00:23:23,806 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Src\stm32f4xx_it.c
+2024-04-28 00:23:23,833 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Inc\stm32f4xx_it.h_save
+2024-04-28 00:23:23,978 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Inc\stm32f4xx_it.h
+2024-04-28 00:23:24,011 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-28 00:23:24,178 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Src\stm32f4xx_hal_msp.c
+2024-04-28 00:23:24,191 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\MXTmpFiles\system.tmp_save
+2024-04-28 00:23:24,326 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\MXTmpFiles\system.tmp
+2024-04-28 00:23:24,352 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-28 00:23:24,471 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-28 00:23:24,505 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-04-28 00:23:24,538 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Inc\main.h_save
+2024-04-28 00:23:24,640 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Inc\main.h
+2024-04-28 00:23:24,658 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Src\main.c_save
+2024-04-28 00:23:24,791 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC1_Multiple_Channel_Interrupt\Core\Src\main.c
+2024-04-28 00:23:25,528 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 163mS.
+2024-04-28 00:23:25,565 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-04-28 00:23:25,823 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-04-28 00:23:25,836 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-04-28 00:23:25,847 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-04-28 00:23:25,856 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2024-04-28 00:23:25,867 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2024-04-28 00:23:25,879 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-04-28 00:23:25,888 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST

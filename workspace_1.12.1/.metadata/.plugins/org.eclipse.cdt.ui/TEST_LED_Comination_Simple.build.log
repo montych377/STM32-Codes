@@ -1,0 +1,10 @@
+01:07:58 **** Build of configuration Debug for project TEST_LED_Comination_Simple ****
+make -j12 all 
+arm-none-eabi-size   TEST_LED_Comination_Simple.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8848	     20	   1636	  10504	   2908	TEST_LED_Comination_Simple.elf
+Finished building: default.size.stdout
+ 
+
+01:07:58 Build Finished. 0 errors, 0 warnings. (took 214ms)
+

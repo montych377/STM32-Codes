@@ -1,0 +1,10 @@
+02:17:35 **** Incremental Build of configuration Debug for project testi2c ****
+make -j12 all 
+arm-none-eabi-size   testi2c.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14756	     20	   1652	  16428	   402c	testi2c.elf
+Finished building: default.size.stdout
+ 
+
+02:17:35 Build Finished. 0 errors, 0 warnings. (took 160ms)
+

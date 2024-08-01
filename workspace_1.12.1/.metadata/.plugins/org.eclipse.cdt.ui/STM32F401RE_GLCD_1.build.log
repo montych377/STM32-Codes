@@ -1,0 +1,10 @@
+01:07:48 **** Build of configuration Debug for project STM32F401RE_GLCD_1 ****
+make -j12 all 
+arm-none-eabi-size   STM32F401RE_GLCD_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6840	     28	   1572	   8440	   20f8	STM32F401RE_GLCD_1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:48 Build Finished. 0 errors, 0 warnings. (took 277ms)
+

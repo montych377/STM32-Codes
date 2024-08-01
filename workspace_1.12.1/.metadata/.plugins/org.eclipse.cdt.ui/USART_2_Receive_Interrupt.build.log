@@ -1,0 +1,10 @@
+01:08:05 **** Build of configuration Debug for project USART_2_Receive_Interrupt ****
+make -j12 all 
+arm-none-eabi-size   USART_2_Receive_Interrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11424	     20	   1644	  13088	   3320	USART_2_Receive_Interrupt.elf
+Finished building: default.size.stdout
+ 
+
+01:08:05 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

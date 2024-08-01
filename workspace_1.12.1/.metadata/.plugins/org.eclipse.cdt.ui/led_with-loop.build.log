@@ -1,0 +1,17 @@
+00:21:24 **** Incremental Build of configuration Debug for project led_with-loop ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "led_with-loop.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\led_with-loop\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="led_with-loop.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: led_with-loop.elf
+ 
+arm-none-eabi-size   led_with-loop.elf 
+arm-none-eabi-objdump -h -S  led_with-loop.elf  > "led_with-loop.list"
+   text	   data	    bss	    dec	    hex	filename
+   8496	     20	   1636	  10152	   27a8	led_with-loop.elf
+Finished building: default.size.stdout
+ 
+Finished building: led_with-loop.list
+ 
+
+00:21:24 Build Finished. 0 errors, 0 warnings. (took 596ms)
+

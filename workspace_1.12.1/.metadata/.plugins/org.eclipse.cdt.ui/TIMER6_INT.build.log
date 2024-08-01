@@ -1,0 +1,10 @@
+01:08:01 **** Build of configuration Debug for project TIMER6_INT ****
+make -j12 all 
+arm-none-eabi-size   TIMER6_INT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10500	     20	   1716	  12236	   2fcc	TIMER6_INT.elf
+Finished building: default.size.stdout
+ 
+
+01:08:01 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

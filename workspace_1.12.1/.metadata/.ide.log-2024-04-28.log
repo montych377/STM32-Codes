@@ -1,0 +1,14 @@
+2024-04-29 02:34:21,161 [INFO] MainUpdater:2854 - connection check result : 10
+2024-04-29 02:34:21,234 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-04-29 02:34:21,235 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-04-29 02:34:21,236 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-04-29 02:34:22,040 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-04-29 02:34:22,040 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Sofcon_Lab2/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-04-29 02:34:24,596 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-04-29 02:34:24,633 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-04-29 02:34:24,633 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Sofcon_Lab2/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-04-29 03:16:28,436 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-04-29 03:16:28,484 [INFO] ApiDb:448 - Save user favorites file C:\Users\Sofcon_Lab2/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-04-29 03:16:28,484 [INFO] ApiDb:452 - User favorites MCUs=[]
+2024-04-29 03:16:28,484 [INFO] ApiDb:448 - Save user favorites file C:\Users\Sofcon_Lab2/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2024-04-29 03:16:28,484 [INFO] ApiDb:452 - User favorites Boards=[]

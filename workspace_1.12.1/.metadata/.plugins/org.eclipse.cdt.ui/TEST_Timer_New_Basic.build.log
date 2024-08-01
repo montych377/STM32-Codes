@@ -1,0 +1,10 @@
+01:07:59 **** Build of configuration Debug for project TEST_Timer_New_Basic ****
+make -j12 all 
+arm-none-eabi-size   TEST_Timer_New_Basic.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11176	     20	   1716	  12912	   3270	TEST_Timer_New_Basic.elf
+Finished building: default.size.stdout
+ 
+
+01:07:59 Build Finished. 0 errors, 0 warnings. (took 213ms)
+

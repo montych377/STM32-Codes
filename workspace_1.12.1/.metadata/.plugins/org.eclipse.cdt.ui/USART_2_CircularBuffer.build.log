@@ -1,0 +1,10 @@
+01:08:04 **** Build of configuration Debug for project USART_2_CircularBuffer ****
+make -j12 all 
+arm-none-eabi-size   USART_2_CircularBuffer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14000	     20	   1748	  15768	   3d98	USART_2_CircularBuffer.elf
+Finished building: default.size.stdout
+ 
+
+01:08:04 Build Finished. 0 errors, 0 warnings. (took 222ms)
+

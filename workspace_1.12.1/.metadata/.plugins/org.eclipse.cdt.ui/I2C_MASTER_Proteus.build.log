@@ -1,0 +1,10 @@
+21:43:03 **** Build of configuration Debug for project I2C_MASTER_Proteus ****
+make -j12 all 
+arm-none-eabi-size   I2C_MASTER_Proteus.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8220	     28	   1652	   9900	   26ac	I2C_MASTER_Proteus.elf
+Finished building: default.size.stdout
+ 
+
+21:43:04 Build Finished. 0 errors, 0 warnings. (took 283ms)
+

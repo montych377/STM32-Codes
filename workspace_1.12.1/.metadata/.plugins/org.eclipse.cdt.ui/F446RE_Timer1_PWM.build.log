@@ -1,0 +1,16 @@
+01:07:35 **** Build of configuration Debug for project F446RE_Timer1_PWM ****
+make -j12 all 
+arm-none-eabi-gcc -o "F446RE_Timer1_PWM.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\F446RE_Timer1_PWM\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F446RE_Timer1_PWM.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: F446RE_Timer1_PWM.elf
+ 
+arm-none-eabi-size   F446RE_Timer1_PWM.elf 
+arm-none-eabi-objdump -h -S  F446RE_Timer1_PWM.elf  > "F446RE_Timer1_PWM.list"
+   text	   data	    bss	    dec	    hex	filename
+  14860	     20	   1804	  16684	   412c	F446RE_Timer1_PWM.elf
+Finished building: default.size.stdout
+ 
+Finished building: F446RE_Timer1_PWM.list
+ 
+
+01:07:35 Build Finished. 0 errors, 0 warnings. (took 655ms)
+

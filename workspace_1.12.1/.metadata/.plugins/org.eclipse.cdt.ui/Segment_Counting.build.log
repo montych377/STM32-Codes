@@ -1,0 +1,10 @@
+01:07:53 **** Build of configuration Debug for project Segment_Counting ****
+make -j12 all 
+arm-none-eabi-size   Segment_Counting.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8892	     32	   1640	  10564	   2944	Segment_Counting.elf
+Finished building: default.size.stdout
+ 
+
+01:07:53 Build Finished. 0 errors, 0 warnings. (took 220ms)
+

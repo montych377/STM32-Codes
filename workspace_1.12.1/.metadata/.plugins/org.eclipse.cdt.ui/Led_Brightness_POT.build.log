@@ -1,0 +1,10 @@
+01:07:43 **** Build of configuration Debug for project Led_Brightness_POT ****
+make -j12 all 
+arm-none-eabi-size   Led_Brightness_POT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12628	     20	   1716	  14364	   381c	Led_Brightness_POT.elf
+Finished building: default.size.stdout
+ 
+
+01:07:43 Build Finished. 0 errors, 0 warnings. (took 279ms)
+

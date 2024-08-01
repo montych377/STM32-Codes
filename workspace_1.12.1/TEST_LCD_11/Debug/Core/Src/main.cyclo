@@ -1,0 +1,12 @@
+main.c:110:5:main	1
+main.c:136:6:LCD_Send_Higher_Nib	1
+main.c:146:6:LCD_Send_Lower_Nib	1
+main.c:155:6:LCD_Init	1
+main.c:161:6:LCD_SendCommand	1
+main.c:178:6:LCD_SendData	1
+main.c:194:6:LCD_Clear	1
+main.c:198:6:LCD_WriteString	2
+main.c:211:6:SystemClock_Config	3
+main.c:259:13:MX_USART2_UART_Init	2
+main.c:292:13:MX_GPIO_Init	1
+main.c:345:6:Error_Handler	1

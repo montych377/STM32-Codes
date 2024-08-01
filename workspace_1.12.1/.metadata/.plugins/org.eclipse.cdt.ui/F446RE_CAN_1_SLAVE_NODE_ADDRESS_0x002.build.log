@@ -1,0 +1,10 @@
+01:07:22 **** Build of configuration Debug for project F446RE_CAN_1_SLAVE_NODE_ADDRESS_0x002 ****
+make -j12 all 
+arm-none-eabi-size   F446RE_CAN_1_SLAVE_NODE_ADDRESS_0x002.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12232	     20	   1716	  13968	   3690	F446RE_CAN_1_SLAVE_NODE_ADDRESS_0x002.elf
+Finished building: default.size.stdout
+ 
+
+01:07:22 Build Finished. 0 errors, 0 warnings. (took 274ms)
+

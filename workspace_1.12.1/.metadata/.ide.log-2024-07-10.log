@@ -1,0 +1,79 @@
+2024-07-10 04:19:35,690 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-07-10 04:19:47,563 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 749576008 Bytes (1073741824)
+2024-07-10 04:19:48,069 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 814587712 Bytes (1073741824)
+2024-07-10 04:19:48,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-10 04:19:48,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-10 04:19:48,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-10 04:19:48,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-10 04:19:48,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-07-10 04:19:48,256 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-10 04:19:48,257 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-07-10 04:19:48,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\license.tmp_save
+2024-07-10 04:19:48,540 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\license.tmp
+2024-07-10 04:19:48,553 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\gpio.tmp_save
+2024-07-10 04:19:48,669 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\gpio.tmp
+2024-07-10 04:19:48,716 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-10 04:19:48,721 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_inc.tmp_save
+2024-07-10 04:19:48,856 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_inc.tmp
+2024-07-10 04:19:48,858 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_vars.tmp_save
+2024-07-10 04:19:48,913 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_vars.tmp
+2024-07-10 04:19:48,916 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-10 04:19:48,968 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_pfp.tmp
+2024-07-10 04:19:48,971 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-10 04:19:49,029 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-10 04:19:49,031 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-10 04:19:49,078 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-10 04:19:49,080 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-10 04:19:49,132 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_default_thread.tmp
+2024-07-10 04:19:49,134 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_threads.tmp_save
+2024-07-10 04:19:49,176 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_threads.tmp
+2024-07-10 04:19:49,181 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-10 04:19:49,186 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_inc.tmp_save
+2024-07-10 04:19:49,247 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_inc.tmp
+2024-07-10 04:19:49,251 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_vars.tmp_save
+2024-07-10 04:19:49,295 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_vars.tmp
+2024-07-10 04:19:49,298 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-10 04:19:49,341 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_pfp.tmp
+2024-07-10 04:19:49,350 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-10 04:19:49,412 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-10 04:19:49,415 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-10 04:19:49,458 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-10 04:19:49,461 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-10 04:19:49,505 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_default_thread.tmp
+2024-07-10 04:19:49,508 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_threads.tmp_save
+2024-07-10 04:19:49,551 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\rtos_threads.tmp
+2024-07-10 04:19:49,554 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\FreeRTOSConfig.h_save
+2024-07-10 04:19:49,629 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\FreeRTOSConfig.h
+2024-07-10 04:19:49,631 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\freertos.c_save
+2024-07-10 04:19:49,711 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\freertos.c
+2024-07-10 04:19:49,725 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\stm32f4xx_it.c_save
+2024-07-10 04:19:49,886 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\stm32f4xx_it.c
+2024-07-10 04:19:49,896 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\stm32f4xx_it.h_save
+2024-07-10 04:19:49,957 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\stm32f4xx_it.h
+2024-07-10 04:19:49,973 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-10 04:19:50,061 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\stm32f4xx_hal_msp.c
+2024-07-10 04:19:50,064 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\system.tmp_save
+2024-07-10 04:19:50,110 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\MXTmpFiles\system.tmp
+2024-07-10 04:19:50,113 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-10 04:19:50,201 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-10 04:19:50,216 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-10 04:19:50,298 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-10 04:19:50,328 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-07-10 04:19:50,345 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\main.h_save
+2024-07-10 04:19:50,429 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Inc\main.h
+2024-07-10 04:19:50,440 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\main.c_save
+2024-07-10 04:19:50,539 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\FreeRTOS_002_TASK_sus_ter_hold\Core\Src\main.c
+2024-07-10 04:19:51,113 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 134mS.
+2024-07-10 04:19:51,117 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-07-10 04:19:51,383 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-07-10 04:19:52,967 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1850mS.
+2024-07-10 04:19:52,968 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-07-10 04:19:52,972 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-07-10 21:55:28,140 [INFO] Activator:176 - 
+
+
+2024-07-10 21:55:28,143 [INFO] Activator:177 - !SESSION log4j initialized
+2024-07-10 21:55:40,670 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-07-10 21:56:39,797 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-07-10 21:56:39,798 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-07-10 21:56:39,801 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.

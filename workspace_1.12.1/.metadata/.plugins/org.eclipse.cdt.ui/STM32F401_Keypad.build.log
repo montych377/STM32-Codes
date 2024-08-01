@@ -1,0 +1,10 @@
+01:07:49 **** Build of configuration Debug for project STM32F401_Keypad ****
+make -j12 all 
+arm-none-eabi-size   STM32F401_Keypad.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10776	    136	   1592	  12504	   30d8	STM32F401_Keypad.elf
+Finished building: default.size.stdout
+ 
+
+01:07:50 Build Finished. 0 errors, 0 warnings. (took 223ms)
+

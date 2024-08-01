@@ -1,0 +1,10 @@
+01:08:06 **** Build of configuration Debug for project USART_2_Tx_Rx_Polling ****
+make -j12 all 
+arm-none-eabi-size   USART_2_Tx_Rx_Polling.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9208	     68	   1636	  10912	   2aa0	USART_2_Tx_Rx_Polling.elf
+Finished building: default.size.stdout
+ 
+
+01:08:06 Build Finished. 0 errors, 0 warnings. (took 210ms)
+

@@ -1,0 +1,34 @@
+2023-12-30 04:18:56,799 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 650264440 Bytes (1063256064)
+2023-12-30 04:18:57,681 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 670872904 Bytes (1063256064)
+2023-12-30 04:18:57,828 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 696403952 Bytes (1063256064)
+2023-12-30 04:18:58,137 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-12-30 04:18:58,137 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-12-30 04:18:58,138 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-12-30 04:18:58,138 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-12-30 04:18:58,138 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-12-30 04:18:58,140 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-12-30 04:18:58,369 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\MXTmpFiles\license.tmp_save
+2023-12-30 04:18:58,516 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\MXTmpFiles\license.tmp
+2023-12-30 04:18:58,558 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\MXTmpFiles\gpio.tmp_save
+2023-12-30 04:18:58,715 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\MXTmpFiles\gpio.tmp
+2023-12-30 04:18:58,813 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Src\stm32f4xx_it.c_save
+2023-12-30 04:18:59,146 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Src\stm32f4xx_it.c
+2023-12-30 04:18:59,163 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Inc\stm32f4xx_it.h_save
+2023-12-30 04:18:59,254 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Inc\stm32f4xx_it.h
+2023-12-30 04:18:59,281 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Src\stm32f4xx_hal_msp.c_save
+2023-12-30 04:18:59,391 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Src\stm32f4xx_hal_msp.c
+2023-12-30 04:18:59,401 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\MXTmpFiles\system.tmp_save
+2023-12-30 04:18:59,459 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\MXTmpFiles\system.tmp
+2023-12-30 04:18:59,478 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-12-30 04:18:59,558 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Inc\stm32f4xx_hal_conf.h
+2023-12-30 04:18:59,578 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2023-12-30 04:18:59,598 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Inc\main.h_save
+2023-12-30 04:18:59,690 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Inc\main.h
+2023-12-30 04:18:59,708 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Src\main.c_save
+2023-12-30 04:18:59,830 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\TEST_\Core\Src\main.c
+2023-12-30 04:19:00,506 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 187mS.
+2023-12-30 04:19:00,513 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-12-30 04:19:00,963 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2023-12-30 04:19:02,788 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2275mS.
+2023-12-30 04:19:02,789 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-12-30 04:19:02,791 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

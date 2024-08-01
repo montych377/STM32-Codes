@@ -1,0 +1,10 @@
+21:43:03 **** Build of configuration Debug for project I2C_1_Master_Receive ****
+make -j12 all 
+arm-none-eabi-size   I2C_1_Master_Receive.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12156	     20	   1748	  13924	   3664	I2C_1_Master_Receive.elf
+Finished building: default.size.stdout
+ 
+
+21:43:03 Build Finished. 0 errors, 0 warnings. (took 282ms)
+

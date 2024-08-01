@@ -1,0 +1,10 @@
+04:04:53 **** Build of configuration Debug for project UART_1_Slave_F446RE_1 ****
+make -j12 all 
+arm-none-eabi-size   UART_1_Slave_F446RE_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9596	     20	   1812	  11428	   2ca4	UART_1_Slave_F446RE_1.elf
+Finished building: default.size.stdout
+ 
+
+04:04:53 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

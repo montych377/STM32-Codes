@@ -1,0 +1,10 @@
+01:07:45 **** Build of configuration Debug for project Multi_ADC_UART_1 ****
+make -j12 all 
+arm-none-eabi-size   Multi_ADC_UART_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16924	    120	   1888	  18932	   49f4	Multi_ADC_UART_1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:45 Build Finished. 0 errors, 0 warnings. (took 279ms)
+

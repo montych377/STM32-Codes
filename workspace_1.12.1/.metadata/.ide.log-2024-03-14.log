@@ -1,0 +1,1761 @@
+2024-03-14 00:57:09,700 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 00:57:46,742 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 00:57:51,257 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 00:59:22,725 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 542450544 Bytes (794820608)
+2024-03-14 00:59:25,417 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 641543024 Bytes (794820608)
+2024-03-14 00:59:25,636 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-14 00:59:25,636 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-14 00:59:25,636 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-14 00:59:25,636 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-03-14 00:59:25,636 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-03-14 00:59:25,637 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-14 00:59:25,638 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-03-14 00:59:25,664 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-03-14 00:59:25,664 [INFO] Argument:321 - 	 sub Args: 
+2024-03-14 00:59:25,664 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Stream6
+2024-03-14 00:59:25,665 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Stream6
+2024-03-14 00:59:25,665 [INFO] Argument:319 - Argument : Initvalue: null
+2024-03-14 00:59:25,665 [INFO] Argument:321 - 	 sub Args: 
+2024-03-14 00:59:25,665 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-03-14 00:59:25,665 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-03-14 00:59:25,665 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-03-14 00:59:25,665 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-03-14 00:59:25,665 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-03-14 00:59:25,665 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-03-14 00:59:25,665 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-03-14 00:59:25,665 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-03-14 00:59:25,666 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-03-14 00:59:25,666 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-03-14 00:59:25,666 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-03-14 00:59:25,666 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-03-14 00:59:25,666 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-03-14 00:59:25,666 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-03-14 00:59:25,666 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-03-14 00:59:25,666 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-03-14 00:59:25,666 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-03-14 00:59:25,666 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-03-14 00:59:25,666 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:319 - Argument : Statevalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:329 - Argument : Statevalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-03-14 00:59:25,667 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-03-14 00:59:25,668 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-03-14 00:59:25,669 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-03-14 00:59:25,669 [INFO] Argument:321 - 	 sub Args: 
+2024-03-14 00:59:25,669 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Stream5
+2024-03-14 00:59:25,669 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Stream5
+2024-03-14 00:59:25,669 [INFO] Argument:319 - Argument : Initvalue: null
+2024-03-14 00:59:25,669 [INFO] Argument:321 - 	 sub Args: 
+2024-03-14 00:59:25,669 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-03-14 00:59:25,669 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-03-14 00:59:25,669 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-03-14 00:59:25,669 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-03-14 00:59:25,670 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2024-03-14 00:59:25,670 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : Statevalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : Statevalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2024-03-14 00:59:25,671 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2024-03-14 00:59:25,672 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-03-14 00:59:25,672 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-03-14 00:59:25,672 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-03-14 00:59:25,672 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-03-14 00:59:25,912 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\license.tmp_save
+2024-03-14 00:59:25,988 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\license.tmp
+2024-03-14 00:59:26,013 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\gpio.tmp_save
+2024-03-14 00:59:26,086 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\gpio.tmp
+2024-03-14 00:59:26,210 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\dma.tmp_save
+2024-03-14 00:59:26,286 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\dma.tmp
+2024-03-14 00:59:26,294 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\dma_GV.tmp_save
+2024-03-14 00:59:26,339 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\dma_GV.tmp
+2024-03-14 00:59:26,359 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Src\stm32f4xx_it.c_save
+2024-03-14 00:59:26,546 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Src\stm32f4xx_it.c
+2024-03-14 00:59:26,556 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Inc\stm32f4xx_it.h_save
+2024-03-14 00:59:26,605 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Inc\stm32f4xx_it.h
+2024-03-14 00:59:26,628 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Src\stm32f4xx_hal_msp.c_save
+2024-03-14 00:59:26,716 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Src\stm32f4xx_hal_msp.c
+2024-03-14 00:59:26,720 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\system.tmp_save
+2024-03-14 00:59:26,768 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\MXTmpFiles\system.tmp
+2024-03-14 00:59:26,787 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-03-14 00:59:26,855 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Inc\stm32f4xx_hal_conf.h
+2024-03-14 00:59:26,873 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-03-14 00:59:26,892 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Inc\main.h_save
+2024-03-14 00:59:26,963 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Inc\main.h
+2024-03-14 00:59:26,978 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Src\main.c_save
+2024-03-14 00:59:27,060 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\UART_TX_RX_DMA\Core\Src\main.c
+2024-03-14 00:59:27,542 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 95mS.
+2024-03-14 00:59:27,545 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-03-14 00:59:27,844 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-03-14 00:59:28,982 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1437mS.
+2024-03-14 00:59:28,983 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 00:59:28,985 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 00:59:44,776 [INFO] MainUpdater:2854 - connection check result : 10
+2024-03-14 00:59:44,827 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-03-14 00:59:44,828 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-03-14 00:59:44,828 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-03-14 00:59:45,534 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-03-14 00:59:45,534 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Sofcon_Lab2/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-03-14 00:59:49,198 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-03-14 00:59:49,239 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-03-14 00:59:49,239 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Sofcon_Lab2/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-03-14 01:00:26,665 [INFO] MainUpdater:2854 - connection check result : 10
+2024-03-14 01:00:26,665 [INFO] MainUpdater:2854 - connection check result : 10
+2024-03-14 01:00:26,726 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-03-14 01:00:26,726 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-03-14 01:00:26,743 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-03-14 01:00:26,743 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-03-14 01:00:26,743 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-03-14 01:00:26,744 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-14 01:00:26,749 [WARN] IpParametersView:150 - Warning: This peripheral hasn't parameters
+2024-03-14 01:00:26,753 [WARN] MainPanel:257 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-03-14 01:00:26,759 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 447684824 Bytes (831520768)
+2024-03-14 01:00:26,760 [INFO] OpenFileManager:308 - Change cursor
+2024-03-14 01:00:26,779 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-03-14 01:00:26,788 [INFO] ProjectFactory:402 - No CPN specified for board NUCLEO-F446RE => set CPN to STM32F446RET6
+2024-03-14 01:00:26,788 [INFO] Mcu:1937 - Initializing MCU STM32F446R(C-E)Tx STM32F446RETx STM32F446RET6
+2024-03-14 01:00:27,870 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB1 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB2 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB3 is applicable
+2024-03-14 01:00:28,079 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB4 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 01:00:28,080 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule Rename SubGHz_Phy SUBGHZ_APPLICATION SUBGHZ_PINGPONG to SUBGHZ_ADV_APPLICATION is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule Rename Enabled to IBEACON is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for mcu.IP is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for mcu is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule SPDIFRX instance for mcu is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule Rename Tracer Mode is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule SPDIFRX instance for signal is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule SPDIFRX instance for project manager is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule SPDIFRX instance for project manager is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule ADC Scan  fix with FW F7 is applicable
+2024-03-14 01:00:28,081 [INFO] Rule:228 - rule ADC Scan  fix with FW F7 is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp0 Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp0 SIGNAL is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp1 Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp1 SIGNAL is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp2 Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp2 SIGNAL is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp4 Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp4 SIGNAL is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp5 Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule WakeUp5 SIGNAL is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule Add RTC Activate Clock Source is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule Add RTC Activate Calendar 1 is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule Add RTC Activate Calendar 2 is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule Add RTC Activate Calendar 3 is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule UART/USART TX Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule UART/USART RX Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule UART/USART RX TX Mode is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule UART/USART PARITY NONE is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule UART/USART PARITY EVEN is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule UART/USART PARITY ODD is applicable
+2024-03-14 01:00:28,082 [INFO] Rule:228 - rule USART StopBits 1 is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule USART StopBits 2 is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule USART StopBits 1.5 is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule USART StopBits 0.5 is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule UART/USART WORD LENGTH 7 is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule UART/USART WORD LENGTH 8 is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule UART/USART WORD LENGTH 9 is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Rename FMC NAND NCE signal is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Rename FMC NAND INT signal is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for LSE Drive Capability for WB family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC Clock Prescaler G0 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv L4 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv L4 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F3 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F3 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv Goldfish serie is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv Goldfish serie is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv L0 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F0 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConvn L1 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv L1 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F1 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F1 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F7 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F7 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F4 and F2 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F4 and F2 family is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2024-03-14 01:00:28,083 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename USB_OE Signal is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename Activate_OE Mode is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2024-03-14 01:00:28,084 [INFO] Rule:228 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule TimeTriggeredMode to TTCM is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN AutoBusOff to ABOM is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN AutoRetransmission to NART is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2024-03-14 01:00:28,085 [INFO] Rule:228 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2024-03-14 01:00:28,086 [INFO] Rule:228 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule USART TxPinLevelInvertParam Mode is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule USART RxPinLevelInvertParam Mode is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule USART DataInvertParam Mode is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule USART SwapParam Mode is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule USART OverrunDisableParam Mode is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule USART DMADisableonRxErrorParam Mode is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule USART MSBFirstParam Mode is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule Update MwName for USB_DEVICE is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule TIM1CLockSelection is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule TIM15CLockSelection is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,087 [INFO] Rule:228 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Rename DCMI PIXCK signal is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Change Default Value for USART for G4 family is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,088 [INFO] Rule:228 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2024-03-14 01:00:28,089 [INFO] Rule:228 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule Change Default Value for PLL1UserDefinedConfig is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule Change GPIO_PuPd Default Value for USART in async mode is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule Change SMPSDivider Default Value is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule OPAMP is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2024-03-14 01:00:28,090 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule USB device lib V2.5.3 for L0 rename USBD_SUPPORT_USER_STRING parameter to USBD_SUPPORT_USER_STRING_DESC4 is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule I2SCLockSelection clock entry align is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule Assign TIMx context if used as SYS timebase is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for I2C is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for SMBus is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule change FDCAN default value is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule Change mode sai is applicable
+2024-03-14 01:00:28,091 [INFO] Rule:228 - rule **Change sai mode is applicable
+2024-03-14 01:00:28,133 [INFO] DbConfProperties:307 - Apply Compatibility (49/258 Rules)
+2024-03-14 01:00:28,156 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2024-03-14 01:00:28,242 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-03-14 01:00:28,243 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-03-14 01:00:28,243 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-03-14 01:00:28,243 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-03-14 01:00:28,243 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,253 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,254 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 01:00:28,337 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-03-14 01:00:29,317 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-03-14 01:00:29,360 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (48MHZClocksFreq_Value)
+2024-03-14 01:00:29,360 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (EthernetFreq_Value)
+2024-03-14 01:00:29,361 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (FLatency) has Id (AdvancedSettings) currently not set
+2024-03-14 01:00:29,361 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-03-14 01:00:29,361 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2SClocksFreq_Value)
+2024-03-14 01:00:29,361 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (SDIOFreq_Value) has invalid value (168000000)
+2024-03-14 01:00:29,361 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (168000000)
+2024-03-14 01:00:29,362 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VCOInputMFreq_Value)
+2024-03-14 01:00:29,362 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VcooutputI2S)
+2024-03-14 01:00:29,557 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 447894400 Bytes (831520768)
+2024-03-14 01:00:29,572 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-03-14 01:00:29,572 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.2.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-03-14 01:00:29,572 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-03-14 01:00:29,573 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-03-14 01:00:29,574 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-03-14 01:00:29,708 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-14 01:00:29,709 [INFO] PinOutPanel:1499 - setPackage(STM32F446RETx,LQFP64)
+2024-03-14 01:00:29,922 [INFO] UtilMem:75 - Before build in PCC Used Memory: 418775064 Bytes (831520768)
+2024-03-14 01:00:30,172 [INFO] UtilMem:75 - After build in PCC Used Memory: 466483224 Bytes (831520768)
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,189 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,190 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,191 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,192 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,192 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,192 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,192 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,192 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,192 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,192 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,193 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,193 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,193 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,193 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,193 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,193 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,194 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,194 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,194 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,194 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,194 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,194 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,195 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,195 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,195 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,195 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,196 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,196 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,196 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,196 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,197 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,197 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 01:00:30,209 [INFO] ApiDbMcu:507 - Load IP Config File for PDM2PCM
+2024-03-14 01:00:30,247 [INFO] CADModel:165 - CPN selected for project levelSTM32F446RET6
+2024-03-14 01:00:30,248 [INFO] CADModel:114 - Register for checkConnection events
+2024-03-14 01:00:30,302 [INFO] OpenFileManager:328 - Restore cursor
+2024-03-14 01:00:30,600 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 619064944 Bytes (831520768)
+2024-03-14 01:00:30,645 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 641084952 Bytes (831520768)
+2024-03-14 01:00:30,856 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-14 01:00:30,856 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-14 01:00:30,856 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-14 01:00:30,856 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-03-14 01:00:30,857 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-14 01:00:30,858 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-03-14 01:00:31,050 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\license.tmp_save
+2024-03-14 01:00:31,122 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\license.tmp
+2024-03-14 01:00:31,144 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\gpio.tmp_save
+2024-03-14 01:00:31,206 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\gpio.tmp
+2024-03-14 01:00:31,232 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_it.c_save
+2024-03-14 01:00:31,297 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_it.c
+2024-03-14 01:00:31,299 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_it.h_save
+2024-03-14 01:00:31,355 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_it.h
+2024-03-14 01:00:31,360 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_hal_msp.c_save
+2024-03-14 01:00:31,438 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_hal_msp.c
+2024-03-14 01:00:31,440 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\system.tmp_save
+2024-03-14 01:00:31,483 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\system.tmp
+2024-03-14 01:00:31,488 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-03-14 01:00:31,566 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_hal_conf.h
+2024-03-14 01:00:31,583 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-03-14 01:00:31,590 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\main.h_save
+2024-03-14 01:00:31,654 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\main.h
+2024-03-14 01:00:31,657 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\main.c_save
+2024-03-14 01:00:31,731 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\main.c
+2024-03-14 01:00:32,224 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 79mS.
+2024-03-14 01:00:32,227 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-03-14 01:00:32,534 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-03-14 01:00:32,541 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-03-14 01:00:32,581 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-03-14 01:00:32,589 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2024-03-14 01:00:32,598 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2024-03-14 01:00:32,611 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-03-14 01:00:32,619 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-03-14 01:00:34,384 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2157mS.
+2024-03-14 01:00:34,384 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 01:00:34,386 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 01:00:34,784 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-03-14 01:00:34,785 [INFO] ApiDb:448 - Save user favorites file C:\Users\Sofcon_Lab2/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-03-14 01:00:34,785 [INFO] ApiDb:452 - User favorites MCUs=[]
+2024-03-14 01:00:34,786 [INFO] ApiDb:448 - Save user favorites file C:\Users\Sofcon_Lab2/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2024-03-14 01:00:34,786 [INFO] ApiDb:452 - User favorites Boards=[]
+2024-03-14 01:03:09,366 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,366 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,402 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,402 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,403 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,403 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,435 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,435 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,436 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 01:03:09,436 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,381 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,382 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,382 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,382 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,601 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,601 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,601 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:26,601 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,612 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,612 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,613 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,613 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,763 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,763 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,764 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:34,764 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:37,986 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:37,986 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:37,986 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:37,986 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,897 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,897 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,898 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,898 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,919 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,919 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,941 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:49,941 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,566 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,566 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,567 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,567 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,592 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,592 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,616 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:01:57,616 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:02:00,377 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x201,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 02:02:12,945 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 341577672 Bytes (903872512)
+2024-03-14 02:02:14,670 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 449058760 Bytes (903872512)
+2024-03-14 02:02:14,890 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-14 02:02:14,890 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-14 02:02:14,890 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-03-14 02:02:14,890 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-14 02:02:14,891 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-14 02:02:14,891 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-03-14 02:02:14,892 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 02:02:14,892 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 02:02:15,110 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\license.tmp_save
+2024-03-14 02:02:15,190 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\license.tmp
+2024-03-14 02:02:15,205 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\gpio.tmp_save
+2024-03-14 02:02:15,292 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\gpio.tmp
+2024-03-14 02:02:15,343 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_it.c_save
+2024-03-14 02:02:15,498 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_it.c
+2024-03-14 02:02:15,508 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_it.h_save
+2024-03-14 02:02:15,570 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_it.h
+2024-03-14 02:02:15,584 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_hal_msp.c_save
+2024-03-14 02:02:15,674 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_hal_msp.c
+2024-03-14 02:02:15,678 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\system.tmp_save
+2024-03-14 02:02:15,725 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\system.tmp
+2024-03-14 02:02:15,737 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-03-14 02:02:15,813 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_hal_conf.h
+2024-03-14 02:02:15,838 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-03-14 02:02:15,852 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\main.h_save
+2024-03-14 02:02:16,029 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\main.h
+2024-03-14 02:02:16,043 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\main.c_save
+2024-03-14 02:02:16,136 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\main.c
+2024-03-14 02:02:16,545 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 111mS.
+2024-03-14 02:02:16,547 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-03-14 02:02:16,726 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-03-14 02:02:18,074 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1527mS.
+2024-03-14 02:02:18,075 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-03-14 02:02:18,078 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 03:06:07,763 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 561250120 Bytes (915406848)
+2024-03-14 03:06:08,001 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-14 03:06:08,001 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-14 03:06:08,001 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-03-14 03:06:08,001 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-14 03:06:08,001 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-14 03:06:08,002 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-03-14 03:06:08,004 [WARN] IP:2113 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-03-14 03:06:08,004 [WARN] IP:2113 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-03-14 03:06:08,183 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\license.tmp_save
+2024-03-14 03:06:08,253 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\license.tmp
+2024-03-14 03:06:08,262 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\gpio.tmp_save
+2024-03-14 03:06:08,330 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\gpio.tmp
+2024-03-14 03:06:08,361 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_it.c_save
+2024-03-14 03:06:08,487 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_it.c
+2024-03-14 03:06:08,490 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_it.h_save
+2024-03-14 03:06:08,545 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_it.h
+2024-03-14 03:06:08,558 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_hal_msp.c_save
+2024-03-14 03:06:08,639 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\stm32f4xx_hal_msp.c
+2024-03-14 03:06:08,642 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\system.tmp_save
+2024-03-14 03:06:08,684 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\MXTmpFiles\system.tmp
+2024-03-14 03:06:08,695 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-03-14 03:06:08,766 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\stm32f4xx_hal_conf.h
+2024-03-14 03:06:08,784 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-03-14 03:06:08,798 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\main.h_save
+2024-03-14 03:06:08,871 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Inc\main.h
+2024-03-14 03:06:08,881 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\main.c_save
+2024-03-14 03:06:09,011 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\MPU6050_ACCEL_GYRO_I2C\Core\Src\main.c
+2024-03-14 03:06:09,520 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 96mS.
+2024-03-14 03:06:09,522 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-03-14 03:06:09,700 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-03-14 03:06:10,962 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1440mS.
+2024-03-14 03:06:10,963 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-03-14 03:06:10,965 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 03:59:41,485 [INFO] MainUpdater:2854 - connection check result : 10
+2024-03-14 03:59:41,537 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-03-14 03:59:41,538 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-03-14 03:59:41,538 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-03-14 03:59:42,085 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-03-14 03:59:42,085 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Sofcon_Lab2/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-03-14 03:59:44,103 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-03-14 03:59:44,139 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-03-14 03:59:44,139 [INFO] DetailPanel:341 - Set advertising image to C:/Users/Sofcon_Lab2/STM32Cube/Repository/\en.prom-stm32wl3-mcu-finder.jpg
+2024-03-14 04:00:08,171 [INFO] MainUpdater:2854 - connection check result : 10
+2024-03-14 04:00:08,171 [INFO] MainUpdater:2854 - connection check result : 10
+2024-03-14 04:00:08,241 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-03-14 04:00:08,241 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2024-03-14 04:00:08,257 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-03-14 04:00:08,257 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-03-14 04:00:08,257 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-03-14 04:00:08,258 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-14 04:00:08,266 [WARN] IpParametersView:150 - Warning: This peripheral hasn't parameters
+2024-03-14 04:00:08,270 [WARN] MainPanel:257 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-03-14 04:00:08,273 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 588634248 Bytes (915406848)
+2024-03-14 04:00:08,273 [INFO] OpenFileManager:308 - Change cursor
+2024-03-14 04:00:08,285 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2024-03-14 04:00:08,288 [INFO] ProjectFactory:402 - No CPN specified for board NUCLEO-F446RE => set CPN to STM32F446RET6
+2024-03-14 04:00:08,288 [INFO] Mcu:1937 - Initializing MCU STM32F446R(C-E)Tx STM32F446RETx STM32F446RET6
+2024-03-14 04:00:09,208 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-03-14 04:00:09,425 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-03-14 04:00:09,425 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2024-03-14 04:00:09,425 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-03-14 04:00:09,425 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2024-03-14 04:00:09,425 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB1 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB2 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule Rename SubGHz_Phy SUBGHZ_APPLICATION SUBGHZ_PINGPONG to SUBGHZ_ADV_APPLICATION is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule Rename Enabled to IBEACON is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for mcu.IP is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-03-14 04:00:09,426 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule GTZC_S instance for mcu is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule SPDIFRX instance for mcu is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule Rename Tracer Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule SPDIFRX instance for signal is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule SPDIFRX instance for project manager is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule SPDIFRX instance for project manager is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule ADC Scan  fix with FW F7 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule ADC Scan  fix with FW F7 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp0 Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp0 SIGNAL is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp1 Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp1 SIGNAL is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp2 Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp2 SIGNAL is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp4 Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp4 SIGNAL is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp5 Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule WakeUp5 SIGNAL is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule Add RTC Activate Clock Source is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule Add RTC Activate Calendar 1 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule Add RTC Activate Calendar 2 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule Add RTC Activate Calendar 3 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART TX Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART RX Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART RX TX Mode is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART PARITY NONE is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART PARITY EVEN is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART PARITY ODD is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule USART StopBits 1 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule USART StopBits 2 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule USART StopBits 1.5 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule USART StopBits 0.5 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART WORD LENGTH 7 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART WORD LENGTH 8 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule UART/USART WORD LENGTH 9 is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule Rename FMC NAND NCE signal is applicable
+2024-03-14 04:00:09,427 [INFO] Rule:228 - rule Rename FMC NAND INT signal is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for LSE Drive Capability for WB family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC Clock Prescaler G0 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv L4 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv L4 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F3 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F3 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv Goldfish serie is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv Goldfish serie is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv L0 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F0 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConvn L1 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv L1 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F1 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F1 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F7 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F7 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F4 and F2 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F4 and F2 family is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename USB_OE Signal is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename Activate_OE Mode is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2024-03-14 04:00:09,428 [INFO] Rule:228 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule TimeTriggeredMode to TTCM is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN AutoBusOff to ABOM is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN AutoRetransmission to NART is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2024-03-14 04:00:09,429 [INFO] Rule:228 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule USART TxPinLevelInvertParam Mode is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule USART RxPinLevelInvertParam Mode is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule USART DataInvertParam Mode is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule USART SwapParam Mode is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule USART OverrunDisableParam Mode is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule USART DMADisableonRxErrorParam Mode is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule USART MSBFirstParam Mode is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Update MwName for USB_DEVICE is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule TIM1CLockSelection is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule TIM15CLockSelection is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Rename DCMI PIXCK signal is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change Default Value for USART for G4 family is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,430 [INFO] Rule:228 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change Default Value for PLL1UserDefinedConfig is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change GPIO_PuPd Default Value for USART in async mode is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change SMPSDivider Default Value is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule OPAMP is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule USB device lib V2.5.3 for L0 rename USBD_SUPPORT_USER_STRING parameter to USBD_SUPPORT_USER_STRING_DESC4 is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule I2SCLockSelection clock entry align is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Assign TIMx context if used as SYS timebase is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for I2C is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for SMBus is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule change FDCAN default value is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule Change mode sai is applicable
+2024-03-14 04:00:09,431 [INFO] Rule:228 - rule **Change sai mode is applicable
+2024-03-14 04:00:09,440 [INFO] DbConfProperties:307 - Apply Compatibility (49/258 Rules)
+2024-03-14 04:00:09,449 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2024-03-14 04:00:09,537 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-03-14 04:00:09,537 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-03-14 04:00:09,537 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-03-14 04:00:09,537 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-03-14 04:00:09,537 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,547 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,548 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-03-14 04:00:09,626 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-03-14 04:00:10,610 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-03-14 04:00:10,653 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (48MHZClocksFreq_Value)
+2024-03-14 04:00:10,653 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (EthernetFreq_Value)
+2024-03-14 04:00:10,654 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (FLatency) has Id (AdvancedSettings) currently not set
+2024-03-14 04:00:10,654 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-03-14 04:00:10,654 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (I2SClocksFreq_Value)
+2024-03-14 04:00:10,654 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (SDIOFreq_Value) has invalid value (168000000)
+2024-03-14 04:00:10,654 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (168000000)
+2024-03-14 04:00:10,654 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VCOInputMFreq_Value)
+2024-03-14 04:00:10,654 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (VcooutputI2S)
+2024-03-14 04:00:10,846 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 429944560 Bytes (915406848)
+2024-03-14 04:00:10,858 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-03-14 04:00:10,858 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.2.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-03-14 04:00:10,858 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.0
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.1
+2024-03-14 04:00:10,859 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-03-14 04:00:10,860 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-03-14 04:00:10,860 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-03-14 04:00:10,980 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-03-14 04:00:10,980 [INFO] PinOutPanel:1499 - setPackage(STM32F446RETx,LQFP64)
+2024-03-14 04:00:11,186 [INFO] UtilMem:75 - Before build in PCC Used Memory: 446491184 Bytes (915406848)
+2024-03-14 04:00:11,363 [INFO] UtilMem:75 - After build in PCC Used Memory: 495774256 Bytes (915406848)
+2024-03-14 04:00:11,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,381 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,382 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,383 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,384 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,386 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,387 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,388 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,388 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,388 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,388 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,389 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,389 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,389 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,389 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,389 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,390 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,390 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,390 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,390 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,391 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,391 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,391 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,392 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,393 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-03-14 04:00:11,395 [INFO] ApiDbMcu:507 - Load IP Config File for PDM2PCM
+2024-03-14 04:00:11,432 [INFO] CADModel:165 - CPN selected for project levelSTM32F446RET6
+2024-03-14 04:00:11,432 [INFO] CADModel:114 - Register for checkConnection events
+2024-03-14 04:00:11,489 [INFO] OpenFileManager:328 - Restore cursor
+2024-03-14 04:00:11,770 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 649067616 Bytes (915406848)
+2024-03-14 04:00:11,816 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 670926448 Bytes (915406848)
+2024-03-14 04:00:12,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-14 04:00:12,012 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-14 04:00:12,012 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-14 04:00:12,012 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-03-14 04:00:12,012 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-14 04:00:12,013 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-03-14 04:00:12,195 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\license.tmp_save
+2024-03-14 04:00:12,277 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\license.tmp
+2024-03-14 04:00:12,295 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\gpio.tmp_save
+2024-03-14 04:00:12,373 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\gpio.tmp
+2024-03-14 04:00:12,398 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_it.c_save
+2024-03-14 04:00:12,534 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_it.c
+2024-03-14 04:00:12,537 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_it.h_save
+2024-03-14 04:00:12,591 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_it.h
+2024-03-14 04:00:12,597 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_hal_msp.c_save
+2024-03-14 04:00:12,737 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_hal_msp.c
+2024-03-14 04:00:12,739 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\system.tmp_save
+2024-03-14 04:00:12,783 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\system.tmp
+2024-03-14 04:00:12,788 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-03-14 04:00:12,865 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_hal_conf.h
+2024-03-14 04:00:12,882 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-03-14 04:00:12,888 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\main.h_save
+2024-03-14 04:00:12,973 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\main.h
+2024-03-14 04:00:12,976 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\main.c_save
+2024-03-14 04:00:13,051 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\main.c
+2024-03-14 04:00:13,523 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 103mS.
+2024-03-14 04:00:13,525 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-03-14 04:00:13,704 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-03-14 04:00:13,707 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-03-14 04:00:13,710 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-03-14 04:00:13,711 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2024-03-14 04:00:13,715 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2024-03-14 04:00:13,720 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-03-14 04:00:13,723 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2024-03-14 04:00:15,725 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2200mS.
+2024-03-14 04:00:15,725 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 04:00:15,727 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-03-14 04:00:16,310 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2024-03-14 04:00:16,312 [INFO] ApiDb:448 - Save user favorites file C:\Users\Sofcon_Lab2/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2024-03-14 04:00:16,312 [INFO] ApiDb:452 - User favorites MCUs=[]
+2024-03-14 04:00:16,312 [INFO] ApiDb:448 - Save user favorites file C:\Users\Sofcon_Lab2/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2024-03-14 04:00:16,312 [INFO] ApiDb:452 - User favorites Boards=[]
+2024-03-14 04:00:33,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,205 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,206 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,206 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,206 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,206 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,206 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,206 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,206 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,207 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,254 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:33,306 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:33,396 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:33,491 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:33,559 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,559 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,559 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,559 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,559 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,559 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,560 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,596 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,636 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,636 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,636 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,704 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:33,710 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:34,065 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,065 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,065 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,065 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,065 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,065 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,066 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,100 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,134 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,134 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,135 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,175 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,180 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:34,251 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,283 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,320 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,352 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:34,357 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:35,385 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,385 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,385 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,385 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,386 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,458 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,458 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,458 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,459 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,489 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,494 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,566 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,566 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,566 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,566 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:35,668 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:39,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,662 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,663 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:39,692 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,297 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,300 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,300 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,310 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,325 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,326 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,326 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,326 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,326 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,326 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,326 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,326 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,327 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,327 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,327 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,327 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,327 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,327 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,335 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,376 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,377 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,377 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,377 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,377 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,377 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:43,408 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,432 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:44,476 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,480 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,481 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:44,512 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,105 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:00:49,150 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,153 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,154 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,154 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:49,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:00:51,717 [INFO] SpinnerEditorADC:65 - is string kkkk
+2024-03-14 04:01:00,067 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:00,167 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:00,255 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:00,353 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:00,444 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:00,550 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:00,650 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:00,727 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,729 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,730 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,730 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,730 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,730 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,730 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,765 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,766 [INFO] ADCParametersView:116 -        *      Rank 2 : false
+2024-03-14 04:01:00,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:00,766 [INFO] ADCParametersView:116 -        *      Rank 2 : false
+2024-03-14 04:01:00,766 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:02,535 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:02,535 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:02,535 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,357 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:04,401 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,401 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,401 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,404 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,405 [INFO] ADCParametersView:116 -        *      Rank 3 : false
+2024-03-14 04:01:04,438 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,438 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,438 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:04,438 [INFO] ADCParametersView:116 -                Rank 1 : false
+2024-03-14 04:01:04,438 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:04,438 [INFO] ADCParametersView:116 -                Rank 3 : false
+2024-03-14 04:01:05,871 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:05,871 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:05,871 [INFO] ADCParametersView:116 -                Rank 3 : false
+2024-03-14 04:01:07,999 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:07,999 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:07,999 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,843 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:09,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,898 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,900 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,901 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:09,933 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,934 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,934 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,934 [INFO] ADCParametersView:116 -                Rank 1 : true
+2024-03-14 04:01:09,934 [INFO] ADCParametersView:116 -                Rank 2 : true
+2024-03-14 04:01:09,934 [INFO] ADCParametersView:116 -                Rank 3 : true
+2024-03-14 04:01:17,764 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:24,442 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:40,364 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-03-14 04:01:49,130 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 391612680 Bytes (953155584)
+2024-03-14 04:01:51,615 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 525849288 Bytes (953155584)
+2024-03-14 04:01:51,796 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-14 04:01:51,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-03-14 04:01:51,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-14 04:01:51,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-14 04:01:51,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-03-14 04:01:51,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-03-14 04:01:51,797 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-14 04:01:51,799 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-03-14 04:01:51,995 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\license.tmp_save
+2024-03-14 04:01:52,058 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\license.tmp
+2024-03-14 04:01:52,068 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\gpio.tmp_save
+2024-03-14 04:01:52,130 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\gpio.tmp
+2024-03-14 04:01:52,190 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\dma.tmp_save
+2024-03-14 04:01:52,262 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\dma.tmp
+2024-03-14 04:01:52,265 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\dma_GV.tmp_save
+2024-03-14 04:01:52,311 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\dma_GV.tmp
+2024-03-14 04:01:52,324 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_it.c_save
+2024-03-14 04:01:52,412 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_it.c
+2024-03-14 04:01:52,416 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_it.h_save
+2024-03-14 04:01:52,476 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_it.h
+2024-03-14 04:01:52,487 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_hal_msp.c_save
+2024-03-14 04:01:52,572 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\stm32f4xx_hal_msp.c
+2024-03-14 04:01:52,575 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\system.tmp_save
+2024-03-14 04:01:52,618 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\MXTmpFiles\system.tmp
+2024-03-14 04:01:52,629 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-03-14 04:01:52,701 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\stm32f4xx_hal_conf.h
+2024-03-14 04:01:52,766 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-03-14 04:01:52,808 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\main.h_save
+2024-03-14 04:01:52,867 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Inc\main.h
+2024-03-14 04:01:52,876 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\main.c_save
+2024-03-14 04:01:52,963 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\multi_ADC_DMA\Core\Src\main.c
+2024-03-14 04:01:53,457 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 95mS.
+2024-03-14 04:01:53,459 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-03-14 04:01:53,638 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-03-14 04:01:54,777 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1318mS.
+2024-03-14 04:01:54,778 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-03-14 04:01:54,779 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

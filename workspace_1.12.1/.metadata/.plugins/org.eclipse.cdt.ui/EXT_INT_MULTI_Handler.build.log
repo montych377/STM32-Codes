@@ -1,0 +1,10 @@
+01:07:19 **** Build of configuration Debug for project EXT_INT_MULTI_Handler ****
+make -j12 all 
+arm-none-eabi-size   EXT_INT_MULTI_Handler.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11916	    120	   1760	  13796	   35e4	EXT_INT_MULTI_Handler.elf
+Finished building: default.size.stdout
+ 
+
+01:07:19 Build Finished. 0 errors, 0 warnings. (took 226ms)
+

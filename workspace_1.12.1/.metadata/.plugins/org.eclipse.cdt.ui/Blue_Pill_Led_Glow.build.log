@@ -1,0 +1,22 @@
+21:13:28 **** Incremental Build of configuration Debug for project Blue_Pill_Led_Glow ****
+make -j12 all 
+arm-none-eabi-gcc -o "Blue_Pill_Led_Glow.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\Blue_Pill_Led_Glow\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Blue_Pill_Led_Glow.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Blue_Pill_Led_Glow.elf
+ 
+arm-none-eabi-size   Blue_Pill_Led_Glow.elf 
+arm-none-eabi-objdump -h -S  Blue_Pill_Led_Glow.elf  > "Blue_Pill_Led_Glow.list"
+arm-none-eabi-objcopy  -O ihex  Blue_Pill_Led_Glow.elf  "Blue_Pill_Led_Glow.hex"
+arm-none-eabi-objcopy  -O binary  Blue_Pill_Led_Glow.elf  "Blue_Pill_Led_Glow.bin"
+   text	   data	    bss	    dec	    hex	filename
+   4568	     20	   1572	   6160	   1810	Blue_Pill_Led_Glow.elf
+Finished building: default.size.stdout
+ 
+Finished building: Blue_Pill_Led_Glow.hex
+Finished building: Blue_Pill_Led_Glow.bin
+ 
+Finished building: Blue_Pill_Led_Glow.list
+ 
+ 
+
+21:13:28 Build Finished. 0 errors, 0 warnings. (took 349ms)
+

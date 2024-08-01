@@ -1,0 +1,10 @@
+01:07:51 **** Build of configuration Debug for project STM32_F446RE_CAN_NODE1 ****
+make -j12 all 
+arm-none-eabi-size   STM32_F446RE_CAN_NODE1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10824	     20	   1716	  12560	   3110	STM32_F446RE_CAN_NODE1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:52 Build Finished. 0 errors, 0 warnings. (took 221ms)
+

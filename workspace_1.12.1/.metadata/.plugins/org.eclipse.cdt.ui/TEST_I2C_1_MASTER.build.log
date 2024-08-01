@@ -1,0 +1,10 @@
+22:46:08 **** Build of configuration Debug for project TEST_I2C_1_MASTER ****
+make -j12 all 
+arm-none-eabi-size   TEST_I2C_1_MASTER.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16500	     20	   1724	  18244	   4744	TEST_I2C_1_MASTER.elf
+Finished building: default.size.stdout
+ 
+
+22:46:08 Build Finished. 0 errors, 0 warnings. (took 277ms)
+

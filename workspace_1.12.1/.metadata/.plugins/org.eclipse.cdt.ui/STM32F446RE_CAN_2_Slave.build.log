@@ -1,0 +1,10 @@
+01:07:51 **** Build of configuration Debug for project STM32F446RE_CAN_2_Slave ****
+make -j12 all 
+arm-none-eabi-size   STM32F446RE_CAN_2_Slave.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12776	     20	   1756	  14552	   38d8	STM32F446RE_CAN_2_Slave.elf
+Finished building: default.size.stdout
+ 
+
+01:07:51 Build Finished. 0 errors, 0 warnings. (took 215ms)
+

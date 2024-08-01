@@ -1,0 +1,39 @@
+01:07:16 **** Build of configuration Debug for project ADC_1_Multi_Channel ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:118:45: warning: '
+   ' directive writing 2 bytes into a region of size between 0 and 1 [-Wformat-overflow=]
+  118 |    sprintf(arr,"\r\nADC 0 Channel 0 : %04d\r\n",adc0_0);
+      |                                           ~~^~
+../Core/Src/main.c:118:4: note: 'sprintf' output between 27 and 28 bytes into a destination of size 25
+  118 |    sprintf(arr,"\r\nADC 0 Channel 0 : %04d\r\n",adc0_0);
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:124:45: warning: '
+   ' directive writing 2 bytes into a region of size between 0 and 1 [-Wformat-overflow=]
+  124 |    sprintf(arr,"\r\nADC 0 Channel 1 : %04d\r\n",adc0_1);
+      |                                           ~~^~
+../Core/Src/main.c:124:4: note: 'sprintf' output between 27 and 28 bytes into a destination of size 25
+  124 |    sprintf(arr,"\r\nADC 0 Channel 1 : %04d\r\n",adc0_1);
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:130:45: warning: '
+   ' directive writing 2 bytes into a region of size between 0 and 1 [-Wformat-overflow=]
+  130 |    sprintf(arr,"\r\nADC 1 Channel 4 : %04d\r\n",adc1_4);
+      |                                           ~~^~
+../Core/Src/main.c:130:4: note: 'sprintf' output between 27 and 28 bytes into a destination of size 25
+  130 |    sprintf(arr,"\r\nADC 1 Channel 4 : %04d\r\n",adc1_4);
+      |    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+arm-none-eabi-gcc -o "ADC_1_Multi_Channel.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="ADC_1_Multi_Channel.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: ADC_1_Multi_Channel.elf
+ 
+arm-none-eabi-size   ADC_1_Multi_Channel.elf 
+arm-none-eabi-objdump -h -S  ADC_1_Multi_Channel.elf  > "ADC_1_Multi_Channel.list"
+   text	   data	    bss	    dec	    hex	filename
+  14708	    120	   1856	  16684	   412c	ADC_1_Multi_Channel.elf
+Finished building: default.size.stdout
+ 
+Finished building: ADC_1_Multi_Channel.list
+ 
+
+01:07:17 Build Finished. 0 errors, 3 warnings. (took 1s.103ms)
+

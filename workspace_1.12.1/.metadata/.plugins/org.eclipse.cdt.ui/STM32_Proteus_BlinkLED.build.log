@@ -1,0 +1,10 @@
+01:07:52 **** Build of configuration Debug for project STM32_Proteus_BlinkLED ****
+make -j12 all 
+arm-none-eabi-size   STM32_Proteus_BlinkLED.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5848	     52	   1572	   7472	   1d30	STM32_Proteus_BlinkLED.elf
+Finished building: default.size.stdout
+ 
+
+01:07:52 Build Finished. 0 errors, 0 warnings. (took 223ms)
+

@@ -1,0 +1,10 @@
+01:07:45 **** Build of configuration Debug for project Multiple_EXT_Interrupts ****
+make -j12 all 
+arm-none-eabi-size   Multiple_EXT_Interrupts.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8896	     20	   1636	  10552	   2938	Multiple_EXT_Interrupts.elf
+Finished building: default.size.stdout
+ 
+
+01:07:45 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Graphical_LCD_Single_Char/Core/Inc/GLCD_FONT&apos; to &apos;GLCD_FONT.h&apos;" description="Rename resource &apos;GLCD_FONT&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/GLCD_FONT" name="GLCD_FONT.h" stamp="1703323878146" updateReferences="true"/>
+</session>

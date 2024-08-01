@@ -1,0 +1,9 @@
+main.c:112:5:main	1
+main.c:232:6:SystemClock_Config	3
+main.c:280:13:MX_USART2_UART_Init	2
+main.c:313:13:MX_GPIO_Init	1
+main.c:372:6:Data_Write	1
+main.c:387:6:LCD_Data_Write	1
+main.c:400:6:LCD_Command_Write	1
+main.c:421:6:LCD_Initialize	1
+main.c:458:6:Error_Handler	1

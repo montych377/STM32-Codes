@@ -1,0 +1,10 @@
+01:07:59 **** Build of configuration Debug for project TEST_Seven_Segment_Simple ****
+make -j12 all 
+arm-none-eabi-size   TEST_Seven_Segment_Simple.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8580	     40	   1640	  10260	   2814	TEST_Seven_Segment_Simple.elf
+Finished building: default.size.stdout
+ 
+
+01:07:59 Build Finished. 0 errors, 0 warnings. (took 220ms)
+

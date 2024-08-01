@@ -1,0 +1,10 @@
+21:43:04 **** Build of configuration Debug for project I2C_Master_STM32F446RE ****
+make -j12 all 
+arm-none-eabi-size   I2C_Master_STM32F446RE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11112	     20	   1724	  12856	   3238	I2C_Master_STM32F446RE.elf
+Finished building: default.size.stdout
+ 
+
+21:43:04 Build Finished. 0 errors, 0 warnings. (took 287ms)
+

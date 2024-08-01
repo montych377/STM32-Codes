@@ -1,0 +1,10 @@
+01:07:39 **** Build of configuration Debug for project F446re_Nema_17_22 ****
+make -j12 all 
+arm-none-eabi-size   F446re_Nema_17_22.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8620	     20	   1636	  10276	   2824	F446re_Nema_17_22.elf
+Finished building: default.size.stdout
+ 
+
+01:07:39 Build Finished. 0 errors, 0 warnings. (took 278ms)
+

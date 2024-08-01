@@ -1,0 +1,99 @@
+2024-01-28 20:21:58,556 [INFO] Gpio:273 - dependency for GPIO [RCC, SYS, USART2]
+2024-01-28 20:22:41,606 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 885585080 Bytes (1050673152)
+2024-01-28 20:22:43,998 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 754023144 Bytes (1050673152)
+2024-01-28 20:22:44,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-28 20:22:44,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-28 20:22:44,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-28 20:22:44,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-28 20:22:44,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-28 20:22:44,216 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-01-28 20:22:44,447 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\license.tmp_save
+2024-01-28 20:22:44,576 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\license.tmp
+2024-01-28 20:22:44,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\gpio.tmp_save
+2024-01-28 20:22:44,719 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\gpio.tmp
+2024-01-28 20:22:44,817 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_it.c_save
+2024-01-28 20:22:45,065 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_it.c
+2024-01-28 20:22:45,084 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_it.h_save
+2024-01-28 20:22:45,149 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_it.h
+2024-01-28 20:22:45,167 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-28 20:22:45,256 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_hal_msp.c
+2024-01-28 20:22:45,264 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\system.tmp_save
+2024-01-28 20:22:45,318 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\system.tmp
+2024-01-28 20:22:45,334 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-28 20:22:45,405 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-28 20:22:45,422 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-01-28 20:22:45,440 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\main.h_save
+2024-01-28 20:22:45,512 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\main.h
+2024-01-28 20:22:45,527 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\main.c_save
+2024-01-28 20:22:45,655 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\main.c
+2024-01-28 20:22:46,163 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 135mS.
+2024-01-28 20:22:46,165 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-01-28 20:22:46,491 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-01-28 20:22:48,111 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1946mS.
+2024-01-28 20:22:48,111 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-01-28 20:22:48,113 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-01-28 20:59:13,670 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 945761248 Bytes (1059061760)
+2024-01-28 20:59:16,575 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 779801896 Bytes (1059061760)
+2024-01-28 20:59:16,800 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-28 20:59:16,800 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-28 20:59:16,800 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-28 20:59:16,800 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-28 20:59:16,800 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-28 20:59:16,801 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-01-28 20:59:16,939 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\license.tmp_save
+2024-01-28 20:59:17,027 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\license.tmp
+2024-01-28 20:59:17,075 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\gpio.tmp_save
+2024-01-28 20:59:17,194 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\gpio.tmp
+2024-01-28 20:59:17,240 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_it.c_save
+2024-01-28 20:59:17,448 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_it.c
+2024-01-28 20:59:17,451 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_it.h_save
+2024-01-28 20:59:17,503 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_it.h
+2024-01-28 20:59:17,516 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-28 20:59:17,588 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_hal_msp.c
+2024-01-28 20:59:17,590 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\system.tmp_save
+2024-01-28 20:59:17,640 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\system.tmp
+2024-01-28 20:59:17,654 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-28 20:59:17,737 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-28 20:59:17,755 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-01-28 20:59:17,767 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\main.h_save
+2024-01-28 20:59:17,833 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\main.h
+2024-01-28 20:59:17,842 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\main.c_save
+2024-01-28 20:59:17,928 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\main.c
+2024-01-28 20:59:18,444 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 95mS.
+2024-01-28 20:59:18,447 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-01-28 20:59:18,707 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-01-28 20:59:19,890 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1443mS.
+2024-01-28 20:59:19,891 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-01-28 20:59:19,894 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2024-01-28 21:01:45,105 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 736045496 Bytes (1064304640)
+2024-01-28 21:01:45,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-28 21:01:45,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-28 21:01:45,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-28 21:01:45,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-28 21:01:45,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-28 21:01:45,279 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-01-28 21:01:45,407 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\license.tmp_save
+2024-01-28 21:01:45,473 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\license.tmp
+2024-01-28 21:01:45,487 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\gpio.tmp_save
+2024-01-28 21:01:45,553 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\gpio.tmp
+2024-01-28 21:01:45,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_it.c_save
+2024-01-28 21:01:45,660 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_it.c
+2024-01-28 21:01:45,663 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_it.h_save
+2024-01-28 21:01:45,752 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_it.h
+2024-01-28 21:01:45,763 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-28 21:01:45,826 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\stm32f4xx_hal_msp.c
+2024-01-28 21:01:45,828 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\system.tmp_save
+2024-01-28 21:01:45,900 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\MXTmpFiles\system.tmp
+2024-01-28 21:01:45,911 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-28 21:01:45,987 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-28 21:01:46,006 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-01-28 21:01:46,018 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\main.h_save
+2024-01-28 21:01:46,077 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Inc\main.h
+2024-01-28 21:01:46,087 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\main.c_save
+2024-01-28 21:01:46,164 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\KEYPAD_TEST\Core\Src\main.c
+2024-01-28 21:01:46,669 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 122mS.
+2024-01-28 21:01:46,671 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-01-28 21:01:46,960 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-01-28 21:01:48,068 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1397mS.
+2024-01-28 21:01:48,080 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2024-01-28 21:01:48,083 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

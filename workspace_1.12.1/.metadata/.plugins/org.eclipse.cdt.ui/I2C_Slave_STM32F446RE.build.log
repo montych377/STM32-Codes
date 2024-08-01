@@ -1,0 +1,10 @@
+21:43:05 **** Build of configuration Debug for project I2C_Slave_STM32F446RE ****
+make -j12 all 
+arm-none-eabi-size   I2C_Slave_STM32F446RE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11084	     20	   1724	  12828	   321c	I2C_Slave_STM32F446RE.elf
+Finished building: default.size.stdout
+ 
+
+21:43:05 Build Finished. 0 errors, 0 warnings. (took 288ms)
+

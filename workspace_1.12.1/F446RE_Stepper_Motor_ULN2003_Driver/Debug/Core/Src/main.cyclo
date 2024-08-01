@@ -1,0 +1,8 @@
+main.c:71:5:main	1
+main.c:120:6:SystemClock_Config	4
+main.c:174:13:MX_TIM1_Init	4
+main.c:220:13:MX_USART2_UART_Init	2
+main.c:253:13:MX_GPIO_Init	1
+main.c:300:6:Motor_CW_rev	2
+main.c:331:6:Motor_CCW_rev	2
+main.c:367:6:Error_Handler	1

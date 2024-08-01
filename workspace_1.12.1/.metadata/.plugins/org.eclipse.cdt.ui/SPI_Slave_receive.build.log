@@ -1,0 +1,10 @@
+01:07:47 **** Build of configuration Debug for project SPI_Slave_receive ****
+make -j12 all 
+arm-none-eabi-size   SPI_Slave_receive.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12384	     20	   1732	  14136	   3738	SPI_Slave_receive.elf
+Finished building: default.size.stdout
+ 
+
+01:07:47 Build Finished. 0 errors, 0 warnings. (took 215ms)
+

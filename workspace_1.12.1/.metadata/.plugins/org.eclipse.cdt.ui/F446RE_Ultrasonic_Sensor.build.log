@@ -1,0 +1,10 @@
+01:07:37 **** Build of configuration Debug for project F446RE_Ultrasonic_Sensor ****
+make -j12 all 
+arm-none-eabi-size   F446RE_Ultrasonic_Sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10944	     20	   1716	  12680	   3188	F446RE_Ultrasonic_Sensor.elf
+Finished building: default.size.stdout
+ 
+
+01:07:38 Build Finished. 0 errors, 0 warnings. (took 220ms)
+

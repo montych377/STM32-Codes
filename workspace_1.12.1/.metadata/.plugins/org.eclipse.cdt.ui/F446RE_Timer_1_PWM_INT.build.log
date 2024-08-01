@@ -1,0 +1,10 @@
+01:07:36 **** Build of configuration Debug for project F446RE_Timer_1_PWM_INT ****
+make -j12 all 
+arm-none-eabi-size   F446RE_Timer_1_PWM_INT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11596	     24	   1640	  13260	   33cc	F446RE_Timer_1_PWM_INT.elf
+Finished building: default.size.stdout
+ 
+
+01:07:36 Build Finished. 0 errors, 0 warnings. (took 209ms)
+

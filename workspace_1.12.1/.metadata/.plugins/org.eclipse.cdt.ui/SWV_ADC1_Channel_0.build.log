@@ -1,0 +1,10 @@
+01:07:53 **** Build of configuration Debug for project SWV_ADC1_Channel_0 ****
+make -j12 all 
+arm-none-eabi-size   SWV_ADC1_Channel_0.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14912	    120	   1696	  16728	   4158	SWV_ADC1_Channel_0.elf
+Finished building: default.size.stdout
+ 
+
+01:07:53 Build Finished. 0 errors, 0 warnings. (took 222ms)
+

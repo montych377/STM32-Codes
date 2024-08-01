@@ -1,0 +1,10 @@
+22:41:57 **** Incremental Build of configuration Debug for project test_rtos ****
+make -j12 all 
+arm-none-eabi-size   test_rtos.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16368	    124	  18124	  34616	   8738	test_rtos.elf
+Finished building: default.size.stdout
+ 
+
+22:41:57 Build Finished. 0 errors, 0 warnings. (took 228ms)
+

@@ -1,0 +1,10 @@
+01:07:34 **** Build of configuration Debug for project F446RE_Stepper_Motor_ULN2003_Driver ****
+make -j12 all 
+arm-none-eabi-size   F446RE_Stepper_Motor_ULN2003_Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11764	     20	   1708	  13492	   34b4	F446RE_Stepper_Motor_ULN2003_Driver.elf
+Finished building: default.size.stdout
+ 
+
+01:07:34 Build Finished. 0 errors, 0 warnings. (took 215ms)
+

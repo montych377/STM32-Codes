@@ -1,0 +1,10 @@
+01:07:58 **** Build of configuration Debug for project TEST_PWM_TIM2_CH2 ****
+make -j12 all 
+arm-none-eabi-size   TEST_PWM_TIM2_CH2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11248	     20	   1708	  12976	   32b0	TEST_PWM_TIM2_CH2.elf
+Finished building: default.size.stdout
+ 
+
+01:07:59 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

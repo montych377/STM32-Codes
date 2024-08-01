@@ -1,0 +1,16 @@
+01:07:23 **** Build of configuration Debug for project F446RE_CAN_NODE_1_Address_100 ****
+make -j12 all 
+arm-none-eabi-gcc -o "F446RE_CAN_NODE_1_Address_100.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\F446RE_CAN_NODE_1_Address_100\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F446RE_CAN_NODE_1_Address_100.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: F446RE_CAN_NODE_1_Address_100.elf
+ 
+arm-none-eabi-size   F446RE_CAN_NODE_1_Address_100.elf 
+arm-none-eabi-objdump -h -S  F446RE_CAN_NODE_1_Address_100.elf  > "F446RE_CAN_NODE_1_Address_100.list"
+   text	   data	    bss	    dec	    hex	filename
+  10964	     20	   1684	  12668	   317c	F446RE_CAN_NODE_1_Address_100.elf
+Finished building: default.size.stdout
+ 
+Finished building: F446RE_CAN_NODE_1_Address_100.list
+ 
+
+01:07:24 Build Finished. 0 errors, 0 warnings. (took 739ms)
+

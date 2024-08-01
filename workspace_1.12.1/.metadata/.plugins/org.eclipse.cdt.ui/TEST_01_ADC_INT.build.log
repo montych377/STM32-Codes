@@ -1,0 +1,10 @@
+01:07:54 **** Build of configuration Debug for project TEST_01_ADC_INT ****
+make -j12 all 
+arm-none-eabi-size   TEST_01_ADC_INT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11276	     32	   1728	  13036	   32ec	TEST_01_ADC_INT.elf
+Finished building: default.size.stdout
+ 
+
+01:07:54 Build Finished. 0 errors, 0 warnings. (took 284ms)
+

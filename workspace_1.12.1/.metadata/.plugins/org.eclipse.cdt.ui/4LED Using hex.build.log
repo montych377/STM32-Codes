@@ -1,0 +1,24 @@
+01:47:57 **** Incremental Build of configuration Debug for project 4LED Using hex ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:110:27: warning: unsigned conversion from 'int' to 'uint16_t' {aka 'short unsigned int'} changes value from '100000' to '34464' [-Woverflow]
+  110 |   HAL_GPIO_WritePin(GPIOB,100000,1);
+      |                           ^~~~~~
+../Core/Src/main.c:112:27: warning: unsigned conversion from 'int' to 'uint16_t' {aka 'short unsigned int'} changes value from '100000' to '34464' [-Woverflow]
+  112 |   HAL_GPIO_WritePin(GPIOB,100000,0);
+      |                           ^~~~~~
+arm-none-eabi-gcc -o "4LED Using hex.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\4LED Using hex\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="4LED Using hex.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 4LED Using hex.elf
+ 
+arm-none-eabi-size   4LED\ Using\ hex.elf 
+arm-none-eabi-objdump -h -S  4LED\ Using\ hex.elf  > "4LED Using hex.list"
+   text	   data	    bss	    dec	    hex	filename
+   8672	     20	   1636	  10328	   2858	4LED Using hex.elf
+Finished building: default.size.stdout
+ 
+Finished building: 4LED Using hex.list
+ 
+
+01:47:57 Build Finished. 0 errors, 2 warnings. (took 586ms)
+

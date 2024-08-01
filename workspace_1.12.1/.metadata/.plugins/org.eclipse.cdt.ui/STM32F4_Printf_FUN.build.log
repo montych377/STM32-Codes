@@ -1,0 +1,10 @@
+01:07:51 **** Build of configuration Debug for project STM32F4_Printf_FUN ****
+make -j12 all 
+arm-none-eabi-size   STM32F4_Printf_FUN.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14976	    120	   1680	  16776	   4188	STM32F4_Printf_FUN.elf
+Finished building: default.size.stdout
+ 
+
+01:07:51 Build Finished. 0 errors, 0 warnings. (took 210ms)
+

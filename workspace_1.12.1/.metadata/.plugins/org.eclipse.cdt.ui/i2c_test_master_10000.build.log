@@ -1,0 +1,10 @@
+23:59:40 **** Incremental Build of configuration Debug for project i2c_test_master_10000 ****
+make -j12 all 
+arm-none-eabi-size   i2c_test_master_10000.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16220	     20	   1652	  17892	   45e4	i2c_test_master_10000.elf
+Finished building: default.size.stdout
+ 
+
+23:59:40 Build Finished. 0 errors, 0 warnings. (took 207ms)
+

@@ -1,0 +1,7 @@
+main.c:70:5:main	1
+main.c:120:6:SystemClock_Config	3
+main.c:168:13:MX_ADC1_Init	3
+main.c:220:13:MX_TIM2_Init	6
+main.c:279:13:MX_GPIO_Init	1
+main.c:294:6:HAL_ADC_ConvCpltCallback	1
+main.c:309:6:Error_Handler	1

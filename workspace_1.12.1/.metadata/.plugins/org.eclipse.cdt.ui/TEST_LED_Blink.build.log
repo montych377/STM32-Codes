@@ -1,0 +1,10 @@
+23:42:56 **** Incremental Build of configuration Debug for project TEST_LED_Blink ****
+make -j12 all 
+arm-none-eabi-size   TEST_LED_Blink.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8516	     20	   1636	  10172	   27bc	TEST_LED_Blink.elf
+Finished building: default.size.stdout
+ 
+
+23:42:56 Build Finished. 0 errors, 0 warnings. (took 211ms)
+

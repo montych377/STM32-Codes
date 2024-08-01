@@ -1,0 +1,10 @@
+01:07:15 **** Build of configuration Debug for project ADC1_Channel_Multi_DMA ****
+make -j12 all 
+arm-none-eabi-size   ADC1_Channel_Multi_DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30344	    484	   2888	  33716	   83b4	ADC1_Channel_Multi_DMA.elf
+Finished building: default.size.stdout
+ 
+
+01:07:15 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

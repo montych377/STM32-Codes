@@ -1,0 +1,10 @@
+01:08:01 **** Build of configuration Debug for project TIMER_1_BASE_DELAY ****
+make -j12 all 
+arm-none-eabi-size   TIMER_1_BASE_DELAY.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7648	     20	   1644	   9312	   2460	TIMER_1_BASE_DELAY.elf
+Finished building: default.size.stdout
+ 
+
+01:08:01 Build Finished. 0 errors, 0 warnings. (took 275ms)
+

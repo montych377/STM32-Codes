@@ -1,0 +1,10 @@
+01:08:03 **** Build of configuration Debug for project Timer_1_Genrate_Delay_Polling ****
+make -j12 all 
+arm-none-eabi-size   Timer_1_Genrate_Delay_Polling.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10540	     20	   1716	  12276	   2ff4	Timer_1_Genrate_Delay_Polling.elf
+Finished building: default.size.stdout
+ 
+
+01:08:03 Build Finished. 0 errors, 0 warnings. (took 223ms)
+

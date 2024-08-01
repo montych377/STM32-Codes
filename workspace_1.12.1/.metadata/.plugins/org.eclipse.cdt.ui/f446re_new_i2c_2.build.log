@@ -1,0 +1,17 @@
+21:39:14 **** Incremental Build of configuration Debug for project f446re_new_i2c_2 ****
+make -j12 all 
+arm-none-eabi-gcc "../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.d" -MT"Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.o"
+arm-none-eabi-gcc -o "f446re_new_i2c_2.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\f446re_new_i2c_2\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="f446re_new_i2c_2.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: f446re_new_i2c_2.elf
+ 
+arm-none-eabi-size   f446re_new_i2c_2.elf 
+arm-none-eabi-objdump -h -S  f446re_new_i2c_2.elf  > "f446re_new_i2c_2.list"
+   text	   data	    bss	    dec	    hex	filename
+  14636	     20	   1652	  16308	   3fb4	f446re_new_i2c_2.elf
+Finished building: default.size.stdout
+ 
+Finished building: f446re_new_i2c_2.list
+ 
+
+21:39:15 Build Finished. 0 errors, 0 warnings. (took 863ms)
+

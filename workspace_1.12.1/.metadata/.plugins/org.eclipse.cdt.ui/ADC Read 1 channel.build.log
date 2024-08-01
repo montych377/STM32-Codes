@@ -1,0 +1,10 @@
+01:07:14 **** Build of configuration Debug for project ADC Read 1 channel ****
+make -j12 all 
+arm-none-eabi-size   ADC\ Read\ 1\ channel.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14664	    120	   1752	  16536	   4098	ADC Read 1 channel.elf
+Finished building: default.size.stdout
+ 
+
+01:07:14 Build Finished. 0 errors, 0 warnings. (took 221ms)
+

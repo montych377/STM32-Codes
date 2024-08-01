@@ -1,0 +1,13 @@
+main.c:54:6:WriteByte	2
+main.c:62:6:GLCD_WriteDataByte	1
+main.c:73:6:GLCD_WriteCmdByte	1
+main.c:84:6:GLCD_Initialize	1
+main.c:103:6:GLCD_PageSelect	5
+main.c:130:6:GLCD_PrintChar	2
+main.c:139:6:GLCD_SetCursor	1
+main.c:145:6:GLCD_PrintString	3
+main.c:161:6:GLCD_WriteFullString	6
+main.c:217:5:main	1
+main.c:265:6:SystemClock_Config	3
+main.c:307:13:MX_GPIO_Init	1
+main.c:350:6:Error_Handler	1

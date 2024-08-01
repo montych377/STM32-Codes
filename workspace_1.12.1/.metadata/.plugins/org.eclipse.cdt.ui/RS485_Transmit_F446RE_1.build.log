@@ -1,0 +1,10 @@
+01:07:46 **** Build of configuration Debug for project RS485_Transmit_F446RE_1 ****
+make -j12 all 
+arm-none-eabi-size   RS485_Transmit_F446RE_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12004	     60	   1636	  13700	   3584	RS485_Transmit_F446RE_1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:46 Build Finished. 0 errors, 0 warnings. (took 210ms)
+

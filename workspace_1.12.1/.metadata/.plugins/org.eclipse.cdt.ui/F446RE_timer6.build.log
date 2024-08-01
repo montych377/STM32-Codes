@@ -1,0 +1,10 @@
+01:07:38 **** Build of configuration Debug for project F446RE_timer6 ****
+make -j12 all 
+arm-none-eabi-size   F446RE_timer6.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9920	     20	   1708	  11648	   2d80	F446RE_timer6.elf
+Finished building: default.size.stdout
+ 
+
+01:07:38 Build Finished. 0 errors, 0 warnings. (took 221ms)
+

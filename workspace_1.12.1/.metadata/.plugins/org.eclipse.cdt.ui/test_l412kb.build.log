@@ -1,0 +1,21 @@
+21:42:43 **** Build of configuration Debug for project test_l412kb ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L412xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:92:8: warning: unused variable 'arr' [-Wunused-variable]
+   92 |   char arr[]="Hello\r\n";
+      |        ^~~
+arm-none-eabi-gcc -o "test_l412kb.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\test_l412kb\STM32L412KBUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="test_l412kb.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: test_l412kb.elf
+ 
+arm-none-eabi-size   test_l412kb.elf 
+arm-none-eabi-objdump -h -S  test_l412kb.elf  > "test_l412kb.list"
+   text	   data	    bss	    dec	    hex	filename
+  10500	     20	   1700	  12220	   2fbc	test_l412kb.elf
+Finished building: default.size.stdout
+ 
+Finished building: test_l412kb.list
+ 
+
+21:42:45 Build Finished. 0 errors, 1 warnings. (took 1s.899ms)
+

@@ -1,0 +1,10 @@
+01:07:15 **** Build of configuration Debug for project ADC_1_Channel_1_INT ****
+make -j12 all 
+arm-none-eabi-size   ADC_1_Channel_1_INT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14524	    120	   1760	  16404	   4014	ADC_1_Channel_1_INT.elf
+Finished building: default.size.stdout
+ 
+
+01:07:16 Build Finished. 0 errors, 0 warnings. (took 213ms)
+

@@ -1,0 +1,10 @@
+01:07:31 **** Build of configuration Debug for project F446RE_NEW_SLAVE_INT_1 ****
+make -j12 all 
+arm-none-eabi-size   F446RE_NEW_SLAVE_INT_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16940	     20	   1732	  18692	   4904	F446RE_NEW_SLAVE_INT_1.elf
+Finished building: default.size.stdout
+ 
+
+01:07:31 Build Finished. 0 errors, 0 warnings. (took 215ms)
+

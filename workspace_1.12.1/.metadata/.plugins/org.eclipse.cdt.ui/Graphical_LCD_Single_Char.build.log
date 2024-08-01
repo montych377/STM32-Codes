@@ -1,0 +1,10 @@
+01:07:39 **** Build of configuration Debug for project Graphical_LCD_Single_Char ****
+make -j12 all 
+arm-none-eabi-size   Graphical_LCD_Single_Char.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13708	     20	   1636	  15364	   3c04	Graphical_LCD_Single_Char.elf
+Finished building: default.size.stdout
+ 
+
+01:07:39 Build Finished. 0 errors, 0 warnings. (took 218ms)
+

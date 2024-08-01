@@ -1,0 +1,36 @@
+2024-01-22 20:52:16,503 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 656737128 Bytes (901775360)
+2024-01-22 20:52:17,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-22 20:52:17,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-01-22 20:52:17,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-22 20:52:17,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-22 20:52:17,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-22 20:52:17,217 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-22 20:52:17,218 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2024-01-22 20:52:17,792 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\MXTmpFiles\license.tmp_save
+2024-01-22 20:52:18,370 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\MXTmpFiles\license.tmp
+2024-01-22 20:52:18,439 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\MXTmpFiles\gpio.tmp_save
+2024-01-22 20:52:18,589 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\MXTmpFiles\gpio.tmp
+2024-01-22 20:52:18,761 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Src\stm32f4xx_it.c_save
+2024-01-22 20:52:18,943 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Src\stm32f4xx_it.c
+2024-01-22 20:52:18,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Inc\stm32f4xx_it.h_save
+2024-01-22 20:52:19,054 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Inc\stm32f4xx_it.h
+2024-01-22 20:52:19,086 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-22 20:52:19,314 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Src\stm32f4xx_hal_msp.c
+2024-01-22 20:52:19,329 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\MXTmpFiles\system.tmp_save
+2024-01-22 20:52:19,425 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\MXTmpFiles\system.tmp
+2024-01-22 20:52:19,456 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-22 20:52:19,585 [INFO] CodeEngine:335 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-22 20:52:19,626 [WARN] IPConfigManager:2937 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-01-22 20:52:19,674 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Inc\main.h_save
+2024-01-22 20:52:19,815 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Inc\main.h
+2024-01-22 20:52:19,849 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Src\main.c_save
+2024-01-22 20:52:19,983 [INFO] CodeEngine:279 - Generated code: C:\Users\Sofcon_Lab2\STM32CubeIDE\workspace_1.12.1\ADC_1_Multi_Channel\Core\Src\main.c
+2024-01-22 20:52:20,766 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 157mS.
+2024-01-22 20:52:20,780 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2024-01-22 20:52:21,143 [INFO] ConfigFileManager:1483 - The Die is : DIE421
+2024-01-22 20:52:21,163 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-01-22 20:52:21,183 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-01-22 20:52:21,193 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2024-01-22 20:52:21,206 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2024-01-22 20:52:21,224 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-01-22 20:52:21,239 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
